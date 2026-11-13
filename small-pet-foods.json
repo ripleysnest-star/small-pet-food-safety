@@ -1,0 +1,2450 @@
+[
+ {
+  "animal": "chinchillas",
+  "food": "apples",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: fresh and dried apple can upset a chinchilla's gut. Give a dried, untreated apple wood stick instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-apples"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "bananas",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: the PDSA says bananas are best avoided because they are high in sugar and can upset a chinchilla's tummy. Banana chips are no better.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-bananas"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "blueberries",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: blueberries are sugary, wet fruit that can upset a chinchilla's gut. Dried raspberry or blackberry leaves are a safe berry-themed treat.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-blueberries"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "carrots",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: the PDSA says carrots are likely to upset a chinchilla's tummy. Dried herbs and a rose hip make safer treats.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-carrots"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "celery",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: celery is watery and stringy, which can loosen a chinchilla's droppings. Dried nettle, plantain or dandelion are safer greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-celery"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "cucumber",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: cucumber is almost all water, which can loosen a chinchilla's droppings. Fresh water in a bottle and dried herbs are better.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-cucumber"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "dandelions",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, dried: a couple of dried dandelion leaves or one flower head a few times a week. Fresh dandelion is wetter and best kept tiny or skipped.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-dandelions"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "grapes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: the PDSA says grapes are high in sugar and best avoided, as they can upset a chinchilla's tummy.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-grapes"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "hay",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: unlimited grass hay such as timothy, meadow or orchard grass should be most of a chinchilla's diet, refreshed every day.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-hay"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "lettuce",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: Burgess lists lettuce among foods to avoid for chinchillas, and its water can loosen droppings. Dried herbs and leaves are the safe greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-lettuce"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "nuts",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: VCA says never feed nuts and the RSPCA says avoid them, as they are high in fat. Hazel twigs are fine; the nuts are not.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-nuts"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "raisins",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "We'd say no: the PDSA allows up to two raisins a week for adults, but VCA, PetMD and Chewy say no dried fruit. A dried rose hip is safer.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-raisins"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "rose hips",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a treat: one dried rose hip, once or twice a week at most. Dried rose petals and wild rose twigs are safe too.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-rose-hips"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "strawberries",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: strawberries are sweet, wet fruit that can upset a chinchilla's gut. Dried raspberry or blackberry leaf is a safer treat.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-strawberries"
+ },
+ {
+  "animal": "chinchillas",
+  "food": "sunflower seeds",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: VCA says never feed seeds and the RSPCA says they are too high in fat. Sunflower seeds are among the fattiest of all.",
+  "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-sunflower-seeds"
+ },
+ {
+  "animal": "degus",
+  "food": "apples",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, rarely: one thumbnail-sized piece of apple with the pips removed, about once a month. Never for diabetic degus.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-apples"
+ },
+ {
+  "animal": "degus",
+  "food": "bananas",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Banana is too sugary for degus, which are prone to diabetes. Choose leafy veg or a rare sliver of apple instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-bananas"
+ },
+ {
+  "animal": "degus",
+  "food": "broccoli",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: one small raw broccoli floret or leaf per degu, once or twice a week, mixed with other veg. Too much can cause wind.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-broccoli"
+ },
+ {
+  "animal": "degus",
+  "food": "carrots",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, rarely: one thumbnail-sized piece of carrot as an occasional treat. The leafy carrot tops are the better weekly choice.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-carrots"
+ },
+ {
+  "animal": "degus",
+  "food": "cucumber",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a few thumbnail-sized bits of cucumber, skin on, once or twice a week as part of a mixed veg portion.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-cucumber"
+ },
+ {
+  "animal": "degus",
+  "food": "grapes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA says grapes are poisonous to rodents, and they are sugary too. Never give degus grapes or raisins.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-grapes"
+ },
+ {
+  "animal": "degus",
+  "food": "lettuce",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: a few thumbnail-sized pieces of romaine or dark leaf lettuce once or twice a week. Skip iceberg.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-lettuce"
+ },
+ {
+  "animal": "degus",
+  "food": "peanuts",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Rarely, if at all: one plain, unsalted peanut per degu once a week at most. Never salted, roasted, coated or peanut butter.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-peanuts"
+ },
+ {
+  "animal": "degus",
+  "food": "pumpkin seeds",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a tiny reward: one plain, unsalted pumpkin seed per degu, no more than a couple of times a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-pumpkin-seeds"
+ },
+ {
+  "animal": "degus",
+  "food": "strawberries",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Strawberries are too sugary for degus, which are prone to diabetes. A stolen bite is not poisonous, but don't offer them.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-strawberries"
+ },
+ {
+  "animal": "degus",
+  "food": "sunflower seeds",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Only as a rare reward: one plain, unsalted sunflower seed per degu, a couple of times a week at most. They are very fatty.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-sunflower-seeds"
+ },
+ {
+  "animal": "degus",
+  "food": "tomatoes",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, occasionally: a quarter of a ripe cherry tomato per degu. Never the leaves, stalks, vine or unripe green tomatoes.",
+  "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-tomatoes"
+ },
+ {
+  "animal": "ferrets",
+  "food": "bananas",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: bananas are sugary and starchy, ferrets cannot digest fruit, and the sugar can cause diarrhoea and blood sugar swings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-bananas"
+ },
+ {
+  "animal": "ferrets",
+  "food": "bones",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only raw meaty bones, with care, and vets disagree even on those. Never give a ferret cooked bones, which can splinter.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-bones"
+ },
+ {
+  "animal": "ferrets",
+  "food": "cat food",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only as a stopgap: most cat food lacks the protein ferrets need, but a high-protein kitten food or a few cat treats will do for a short while.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-cat-food"
+ },
+ {
+  "animal": "ferrets",
+  "food": "cheese",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: ferrets cope badly with dairy, and cheese is fatty and salty, so it often gives them diarrhoea. Use a meat treat instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-cheese"
+ },
+ {
+  "animal": "ferrets",
+  "food": "chicken",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: plain chicken is one of the best extras for a ferret, given in small pieces alongside a complete ferret food.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-chicken"
+ },
+ {
+  "animal": "ferrets",
+  "food": "chocolate",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: chocolate is toxic to ferrets and can be fatal. If yours has eaten any, ring a vet straight away.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-chocolate"
+ },
+ {
+  "animal": "ferrets",
+  "food": "dog food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: dog food is too starchy and too low in the right protein for ferrets. A few stolen bites will not hurt, but never feed it as a meal.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-dog-food"
+ },
+ {
+  "animal": "ferrets",
+  "food": "eggs",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a little plain cooked egg, or an occasional raw egg in its shell, once or twice a week on top of complete ferret food.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-eggs"
+ },
+ {
+  "animal": "ferrets",
+  "food": "fish",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only now and then: a small piece of plain cooked, boneless fish is not toxic, but meat makes a better treat for a ferret.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-fish"
+ },
+ {
+  "animal": "ferrets",
+  "food": "fruit",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: ferrets are strict meat-eaters that cannot digest fruit, and fruit sugar can cause diarrhoea and blood sugar swings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-fruit"
+ },
+ {
+  "animal": "ferrets",
+  "food": "grapes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: ferrets should not eat grapes or raisins. They are sugary, hard for ferrets to digest, and grapes can harm the kidneys of other pets.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-grapes"
+ },
+ {
+  "animal": "ferrets",
+  "food": "milk",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: cow's milk often gives ferrets diarrhoea because they cope badly with milk sugar. Clean water is the only drink they need.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-milk"
+ },
+ {
+  "animal": "ferrets",
+  "food": "peanut butter",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: peanut butter is a fatty, sugary plant food that ferrets cannot digest well, and some brands contain xylitol, which is dangerous to pets.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-peanut-butter"
+ },
+ {
+  "animal": "ferrets",
+  "food": "raw meat",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, ferrets can eat raw meat, but it carries bacteria and blockage risks and must be balanced, so most owners are safer using it as an extra.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-raw-meat"
+ },
+ {
+  "animal": "ferrets",
+  "food": "tuna",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only rarely: a flake of plain tuna in spring water, drained, is not toxic, but fish is not a natural ferret food, so meat treats are better.",
+  "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-tuna"
+ },
+ {
+  "animal": "gerbils",
+  "food": "apples",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a thumbnail-sized piece of apple once or twice a week, with every pip and the core removed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-apples"
+ },
+ {
+  "animal": "gerbils",
+  "food": "bananas",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as an occasional sweet treat: a quarter of a thin banana slice per gerbil every week or so. No peel, and only plain banana chips.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-bananas"
+ },
+ {
+  "animal": "gerbils",
+  "food": "blueberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: half a fresh blueberry per gerbil once or twice a week. Dried ones only as a crumb, and never sweetened.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-blueberries"
+ },
+ {
+  "animal": "gerbils",
+  "food": "broccoli",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, broccoli is a safe vegetable for gerbils: one small floret, about thumbnail size, per gerbil once or twice a week, raw and washed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-broccoli"
+ },
+ {
+  "animal": "gerbils",
+  "food": "cabbage",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a raw piece of cabbage leaf the size of your thumbnail, around twice a week, with their usual pellets.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-cabbage"
+ },
+ {
+  "animal": "gerbils",
+  "food": "carrots",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, carrot is a safe, crunchy vegetable for gerbils: a thumbnail-sized piece about twice a week, raw and washed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-carrots"
+ },
+ {
+  "animal": "gerbils",
+  "food": "cauliflower",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a raw floret about the size of your thumbnail, around twice a week, alongside their usual pellets.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-cauliflower"
+ },
+ {
+  "animal": "gerbils",
+  "food": "celery",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, occasionally: a thin slice of celery stalk with the strings pulled off. It is watery and low in goodness, so it is never a staple.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-celery"
+ },
+ {
+  "animal": "gerbils",
+  "food": "cheese",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Cheese is not known to be poisonous, but dairy upsets a gerbil's digestion and is fatty and salty. A stolen crumb is unlikely to harm.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-cheese"
+ },
+ {
+  "animal": "gerbils",
+  "food": "cucumber",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: a quarter of a thin cucumber slice per gerbil once or twice a week. Too much can cause loose droppings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-cucumber"
+ },
+ {
+  "animal": "gerbils",
+  "food": "grapes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA and Burgess say grapes are poisonous to rodents. Never give grapes, raisins, sultanas or currants to a gerbil.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-grapes"
+ },
+ {
+  "animal": "gerbils",
+  "food": "lettuce",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, a small torn leaf of romaine or another dark lettuce once or twice a week. Never iceberg lettuce.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-lettuce"
+ },
+ {
+  "animal": "gerbils",
+  "food": "oranges",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Burgess says never feed citrus to gerbils, and Gerbil Care lists oranges, satsumas and lemons as unsafe. Choose apple or berries instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-oranges"
+ },
+ {
+  "animal": "gerbils",
+  "food": "raspberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: about a quarter of a fresh raspberry per gerbil once or twice a week. Skip jam and sweetened dried berries.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-raspberries"
+ },
+ {
+  "animal": "gerbils",
+  "food": "spinach",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, sparingly: one small raw spinach leaf, about the size of your thumbnail, once a week at most.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-spinach"
+ },
+ {
+  "animal": "gerbils",
+  "food": "strawberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a thumbnail-sized piece of fresh strawberry per gerbil once or twice a week. The green top is fine too.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-strawberries"
+ },
+ {
+  "animal": "gerbils",
+  "food": "tomatoes",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, sparingly: a thumbnail-sized piece of ripe red tomato now and then. Never the leaves, stalks or green unripe tomatoes.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-tomatoes"
+ },
+ {
+  "animal": "gerbils",
+  "food": "watermelon",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, rarely: a thumbnail-sized piece of red watermelon flesh, seeds out. Never the rind, and never a big chunk.",
+  "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-watermelon"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "almonds",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Almonds are too fatty and high in calcium for guinea pigs, can cause choking, and bitter almonds are toxic.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-almonds"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "apples",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a thin slice or two of apple, skin on and pips removed, once or twice a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-apples"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "avocado",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: avocado flesh, skin, stone and leaves can all harm guinea pigs, and every UK charity lists it as a food to avoid.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-avocado"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "bananas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a small treat: one thin slice of banana, about 1 cm thick, once a week at most. It is one of the most sugary fruits.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-bananas"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "basil",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: three to five fresh basil leaves a few times a week. It is high in calcium, so not every day.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-basil"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "blueberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one or two fresh blueberries per guinea pig, once or twice a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-blueberries"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "bread",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: bread, toast and crusts are starchy and hard for guinea pigs to digest. A crumb is rarely serious, but don't offer it.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-bread"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "broccoli",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: one small raw floret two or three times a week. It is rich in vitamin C, but too much causes gas.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-broccoli"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "cabbage",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: a palm-sized piece of raw leaf two or three times a week. Savoy and spring greens are good picks; too much causes gas.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-cabbage"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "carrots",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a thumb-sized piece of raw carrot two or three times a week. The leafy carrot tops make a better everyday green.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-carrots"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "cat food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: cat food is meat-based and very high in protein, which guinea pigs cannot digest. A stolen bite is rarely serious, but watch for 24 hours.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-cat-food"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "cauliflower",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: a floret or a couple of leaves two or three times a week. Too much can cause gas.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-cauliflower"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "celery",
+  "answer": "yes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a short piece of celery stalk, chopped small with the strings off, or a few leaves, two or three times a week as part of the veg mix.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-celery"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "cheerios",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: Cheerios are a starchy, sweetened grain cereal, and vets advise against dry cereals for guinea pigs. One stolen hoop is rarely serious.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-cheerios"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "cheese",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: guinea pigs are plant-eaters that can't digest dairy, and Burgess calls dairy particularly dangerous for them. That includes all cheese, milk and yoghurt.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-cheese"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "cherries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one fresh cherry, stone and stalk out, about once a week. Never tinned, glacé or cocktail cherries.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-cherries"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "chicken",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: guinea pigs are strict plant-eaters and cannot digest chicken or any meat. If yours ate some, watch closely and ring your vet.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-chicken"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "chocolate",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No, never: chocolate contains theobromine and caffeine, which are toxic to pets. If your guinea pig ate any, ring your vet straight away.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-chocolate"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "coriander",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: a few sprigs of fresh coriander (cilantro), leaves and stalks, most days of the week as part of the veg bowl.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-coriander"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "courgette",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: a slice or two of raw courgette (zucchini), skin on, is a safe, low-sugar part of the greens mix. The flowers are fine too.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-courgette"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "crackers",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: crackers are starchy, salty human food that can upset a guinea pig's gut. A stolen nibble is rarely serious.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-crackers"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "cucumber",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: a slice or two of washed cucumber, skin and seeds included, can be part of the daily greens mix.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-cucumber"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "dandelions",
+  "answer": "yes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a few clean, unsprayed dandelion leaves two or three times a week. They are rich in vitamin C but also high in calcium.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-dandelions"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "eggs",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: guinea pigs are strict plant-eaters, and eggs in any form, raw, cooked or shell, are an animal food their gut is not built for.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-eggs"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "grapes",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: two seedless grapes, halved, once or twice a week. Skip raisins and seeded grapes.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-grapes"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "grass",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: fresh, unsprayed grass is ideal, ideally every day. Never feed lawnmower clippings, which ferment and make guinea pigs ill.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-grass"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "kale",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, a few times a week: half to one leaf per guinea pig. It is rich in vitamin C but high in calcium, so not every day.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-kale"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "kiwi",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a teaspoon-sized piece of peeled kiwi once a week. It is rich in vitamin C but sugary and acidic.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-kiwi"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "lettuce",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: romaine (cos), Little Gem and leaf lettuces are good daily greens. Skip iceberg, which is mostly water and can cause loose droppings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-lettuce"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "mango",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a treat: one peeled cube about 2.5 cm (1 in) across, once a week. Mango is very sugary, so keep portions small.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-mango"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "melon",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a small cube of melon, skin and seeds off, once or twice a week. Cantaloupe is the best pick.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-melon"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "mint",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, now and then: three to five fresh mint leaves once or twice a week. Never mint sauce, sweets or flavoured mint.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-mint"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "mushrooms",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: mushrooms of every kind are on the PDSA and Burgess lists of foods guinea pigs must avoid. Ring your vet if a wild one was eaten.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-mushrooms"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "onions",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: onions and their relatives (spring onions, leeks, shallots, chives, garlic) are toxic to guinea pigs in any form.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-onions"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "oranges",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only rarely: a thumb-sized piece of peeled, seedless orange once a week at most. Peppers are a better source of vitamin C.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-oranges"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "parsley",
+  "answer": "yes",
+  "how_often": "weekly",
+  "short_answer": "Yes: two or three sprigs, mixed with other greens, a few times a week. Rich in vitamin C, but high in calcium.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-parsley"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "peaches",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a treat: one thin slice of ripe peach, stone removed, once a week. Never give the stone or tinned peaches.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peaches"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "peanut butter",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: peanut butter is high in fat and can stick in a guinea pig's mouth and throat. Nuts and nut spreads have no place in their diet.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peanut-butter"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "peanuts",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Peanuts are too fatty for a guinea pig's gut and a choking risk, and shells can carry toxins. Give hay and veg instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peanuts"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "pears",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a thin slice of pear, pips and core out, once or twice a week. The skin is fine once washed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-pears"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "peas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, a few: five or six fresh peas or a pod or two once or twice a week. The pods and leaves are better than the starchy peas.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peas"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "peppers",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: a strip or two of bell pepper a day is one of the best sources of vitamin C for a guinea pig. Never give chilli or hot peppers.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peppers"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "pineapple",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, a little: one small cube of fresh pineapple once a week at most. Skip the skin, core, leaves and tinned pineapple.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-pineapple"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "popcorn",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: popcorn is starchy and a choking risk, and salt, butter and toffee make it worse. A dropped piece is rarely serious; a kernel is a choking worry.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-popcorn"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "potatoes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: potatoes and their skin, raw or cooked, are on the charities' lists of foods guinea pigs must not eat.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-potatoes"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "pumpkin",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a few small cubes of raw pumpkin flesh, a few times a week. No seeds, no skin, nothing cooked, tinned or spiced.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-pumpkin"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "raspberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one or two fresh raspberries, once or twice a week. Lower in sugar than most fruit, with useful vitamin C.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-raspberries"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "rice",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: rice is a starchy grain, and guinea pigs should not eat grains or cooked food. That includes brown rice, uncooked rice and rice cakes.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-rice"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "spinach",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in moderation: a few raw leaves two or three times a week. Good vitamin C, but high in calcium and oxalates, so not every day.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-spinach"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "strawberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one medium strawberry, halved, once or twice a week. One of the best fruits for vitamin C.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-strawberries"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "sweet potato",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No, we'd skip it: a vet-reviewed guide says sweet potato is not safe for guinea pigs, and it is starchy with almost no vitamin C.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-sweet-potato"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "sweetcorn",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "A little: a few raw kernels now and then are safe but starchy. The husks and silk are the better part to give a guinea pig.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-sweetcorn"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "tomatoes",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, the ripe red fruit: one cherry tomato, cut up, once a week. Never the leaves, stalks, vine or green tomatoes.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-tomatoes"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "walnuts",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Walnuts are far too fatty for a guinea pig's gut and a choking risk. Give hay, herbs and veg instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-walnuts"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "watermelon",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one 2.5 cm (1 in) cube of watermelon flesh, seeds removed, once or twice a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-watermelon"
+ },
+ {
+  "animal": "guinea pigs",
+  "food": "weetabix",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: Weetabix is a starchy wheat cereal, and vets advise against cereals for guinea pigs. A stolen crumb is rarely serious; Weetabix with milk is worse.",
+  "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-weetabix"
+ },
+ {
+  "animal": "hamsters",
+  "food": "apples",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a thumbnail-sized piece of washed apple with the seeds and core removed, once or twice a week. Dwarfs get less.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-apples"
+ },
+ {
+  "animal": "hamsters",
+  "food": "avocado",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: avocado carries persin in its skin, stone and flesh, is very high in fat and can clog cheek pouches, so we never give it to hamsters.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-avocado"
+ },
+ {
+  "animal": "hamsters",
+  "food": "bananas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a sweet treat: half a thin slice of banana once or twice a week for a Syrian, a crumb now and then for a dwarf. Never banana chips.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-bananas"
+ },
+ {
+  "animal": "hamsters",
+  "food": "biscuits",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: sweet biscuits (cookies) are too sugary and fatty for hamsters, and chocolate ones are dangerous. Give a hamster treat or a vegetable instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-biscuits"
+ },
+ {
+  "animal": "hamsters",
+  "food": "blueberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: about half a blueberry once or twice a week for a Syrian, and a quarter now and then for a dwarf.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-blueberries"
+ },
+ {
+  "animal": "hamsters",
+  "food": "bok choy",
+  "answer": "yes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a teaspoon-sized piece of washed pak choi (bok choy) leaf a few times a week is a safe, low-sugar green for Syrian and dwarf hamsters.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-bok-choy"
+ },
+ {
+  "animal": "hamsters",
+  "food": "bread",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only rarely: a 1 cm piece of dry, plain wholemeal crust now and then. Never raw dough, soft sticky bread, or bread with garlic, seeds or spreads.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-bread"
+ },
+ {
+  "animal": "hamsters",
+  "food": "broccoli",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a small floret about the size of your hamster's head, once or twice a week, raw or plainly steamed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-broccoli"
+ },
+ {
+  "animal": "hamsters",
+  "food": "cabbage",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: a small piece of raw leaf no more than twice a week, starting with a nail-sized bit.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cabbage"
+ },
+ {
+  "animal": "hamsters",
+  "food": "carrots",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a few small pieces of washed raw carrot, about a quarter teaspoon, a few times a week. Carrot is sweet, so dwarfs have it less often.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-carrots"
+ },
+ {
+  "animal": "hamsters",
+  "food": "cat food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: cat food is far too rich in fat and meat protein for a hamster. A stolen piece of kibble is not an emergency, but do not feed it.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cat-food"
+ },
+ {
+  "animal": "hamsters",
+  "food": "cauliflower",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a small piece of raw floret, about 1 cm (0.4 in) across, once or twice a week. Leave out the leaves and tough stem.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cauliflower"
+ },
+ {
+  "animal": "hamsters",
+  "food": "celery",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, with the strings removed: about half a teaspoon of finely chopped celery once or twice a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-celery"
+ },
+ {
+  "animal": "hamsters",
+  "food": "cheese",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: Burgess and Omlet both say to avoid dairy for hamsters. A stolen crumb is not an emergency, but boiled egg is a better protein treat.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cheese"
+ },
+ {
+  "animal": "hamsters",
+  "food": "cherries",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, rarely: a quarter of a fresh cherry with the stone, stalk and leaves removed, every 7 to 10 days for a Syrian. Dwarfs get a crumb or none.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cherries"
+ },
+ {
+  "animal": "hamsters",
+  "food": "chickpeas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, cooked and plain: half a chickpea once or twice a week for a Syrian, a quarter for a dwarf. Never raw, salted, roasted or as hummus.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-chickpeas"
+ },
+ {
+  "animal": "hamsters",
+  "food": "chips",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: chips (fries) and crisps are salty, oily, often seasoned and made from potato, which charities list as unsafe for hamsters.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-chips"
+ },
+ {
+  "animal": "hamsters",
+  "food": "chocolate",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: chocolate of any kind is dangerous to hamsters. If yours has eaten some, ring your vet straight away, even if they seem fine.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-chocolate"
+ },
+ {
+  "animal": "hamsters",
+  "food": "courgette",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a washed cube of raw courgette (zucchini) about 1 cm (0.4 in) across, two or three times a week. Low in sugar, so fine for dwarfs.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-courgette"
+ },
+ {
+  "animal": "hamsters",
+  "food": "crackers",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only rarely: a 1 cm piece of a plain, unsalted wholegrain cracker now and then. Salted, cheesy and flavoured crackers are a no.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-crackers"
+ },
+ {
+  "animal": "hamsters",
+  "food": "crickets",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: one or two dried pet-shop crickets once or twice a week make a natural protein treat. Skip live crickets, and never feed wild-caught insects.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-crickets"
+ },
+ {
+  "animal": "hamsters",
+  "food": "cucumber",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a thin slice of washed cucumber once or twice a week is a safe, low-sugar treat for Syrian and dwarf hamsters alike.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cucumber"
+ },
+ {
+  "animal": "hamsters",
+  "food": "dates",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: dates are dried fruit packed with sugar, so we skip them for all hamsters and give a fresh fruit or vegetable treat instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-dates"
+ },
+ {
+  "animal": "hamsters",
+  "food": "dog food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: dog food has too much fat and protein and too little fibre for a hamster. A stolen piece is fine, but do not feed it on purpose.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-dog-food"
+ },
+ {
+  "animal": "hamsters",
+  "food": "eggs",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a fingernail-sized piece of plain hard-boiled or scrambled egg once or twice a week is a good protein treat. Never raw, runny or seasoned.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-eggs"
+ },
+ {
+  "animal": "hamsters",
+  "food": "grapes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: the RSPCA says never to give hamsters grapes, as they can be poisonous to rodents, so pick a safer fruit such as apple or blueberry.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-grapes"
+ },
+ {
+  "animal": "hamsters",
+  "food": "hazelnuts",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a rare treat: a quarter of a plain, unsalted hazelnut once a week for a Syrian, and a crumb for a dwarf. Never chocolate hazelnut spread.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-hazelnuts"
+ },
+ {
+  "animal": "hamsters",
+  "food": "kale",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in moderation: a head-sized piece of soft leaf once or twice a week for an adult Syrian, with no stem and none for babies.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-kale"
+ },
+ {
+  "animal": "hamsters",
+  "food": "kiwi",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a paw-sized piece of ripe, peeled kiwi about once a week for a Syrian, and only a crumb for dwarf hamsters.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-kiwi"
+ },
+ {
+  "animal": "hamsters",
+  "food": "lettuce",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: a teaspoon-sized piece of washed romaine or other dark lettuce once or twice a week. Skip iceberg, which is mostly water.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-lettuce"
+ },
+ {
+  "animal": "hamsters",
+  "food": "mango",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a rare treat for Syrians: a 1 cm cube of fresh, peeled mango every week or two. Skip it for Campbell's, winter white and Chinese hamsters.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-mango"
+ },
+ {
+  "animal": "hamsters",
+  "food": "melon",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, for Syrians: about a teaspoon of fresh melon flesh, no rind or seeds, once or twice a week. Skip it for dwarf and baby hamsters.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-melon"
+ },
+ {
+  "animal": "hamsters",
+  "food": "mushrooms",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Rarely: a fingernail-sized piece of plain, shop-bought mushroom now and then. Never wild mushrooms, and nothing cooked in butter, oil or garlic.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-mushrooms"
+ },
+ {
+  "animal": "hamsters",
+  "food": "nuts",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Some, as a rare treat: one small piece of a plain, unsalted nut such as walnut or hazelnut, once a week at most. Never salted or flavoured nuts.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-nuts"
+ },
+ {
+  "animal": "hamsters",
+  "food": "onions",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: onions and their relatives (garlic, leeks, chives, spring onions) can damage red blood cells, so never feed them to a hamster, raw or cooked.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-onions"
+ },
+ {
+  "animal": "hamsters",
+  "food": "oranges",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: oranges and other citrus are too acidic and sugary for hamsters, and UK charities advise leaving them out. A bite is not poisonous.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-oranges"
+ },
+ {
+  "animal": "hamsters",
+  "food": "peaches",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes: a paw-sized piece of fresh, washed peach about once a week for a Syrian, never the stone. Dwarf hamsters are better off skipping it.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-peaches"
+ },
+ {
+  "animal": "hamsters",
+  "food": "peanut butter",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: peanut butter is sticky enough to clog cheek pouches and is high in fat, salt and sugar. A plain unsalted peanut now and then is the safer swap.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-peanut-butter"
+ },
+ {
+  "animal": "hamsters",
+  "food": "peanuts",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, plain and unsalted: one peanut once or twice a week for a Syrian, a quarter for a dwarf. Never salted, honey-roasted or chocolate peanuts.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-peanuts"
+ },
+ {
+  "animal": "hamsters",
+  "food": "pears",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a thin slice of washed pear the size of your hamster's ear, pips and core removed, about once a week. Dwarfs get less, less often.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-pears"
+ },
+ {
+  "animal": "hamsters",
+  "food": "peas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes for Syrians: up to six plain peas a week, two at a time at most. Robos up to three a week. Campbell's and winter whites are better without.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-peas"
+ },
+ {
+  "animal": "hamsters",
+  "food": "peppers",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes for sweet bell peppers: a small strip two or three times a week. Chillies and any hot or spicy pepper are a no.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-peppers"
+ },
+ {
+  "animal": "hamsters",
+  "food": "pineapple",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, rarely: a 1 cm cube of fresh pineapple flesh once every two weeks for a Syrian. No skin, core, tinned fruit or juice, and skip it for dwarfs.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-pineapple"
+ },
+ {
+  "animal": "hamsters",
+  "food": "pistachios",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, if plain and unsalted: half a shelled pistachio once a week for a Syrian, a crumb for a dwarf. Never salted or flavoured ones.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-pistachios"
+ },
+ {
+  "animal": "hamsters",
+  "food": "popcorn",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, plain only: one or two pieces of air-popped popcorn now and then. No butter, salt, sugar, toffee or microwave popcorn.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-popcorn"
+ },
+ {
+  "animal": "hamsters",
+  "food": "potatoes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: raw and green potato contains solanine, and UK sources list potato as unsafe for hamsters. Chips and crisps are a no too.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-potatoes"
+ },
+ {
+  "animal": "hamsters",
+  "food": "pumpkin",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: plain pumpkin flesh, raw or cooked, in a piece the size of your hamster's ear a few times a week, plus the odd plain pumpkin seed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-pumpkin"
+ },
+ {
+  "animal": "hamsters",
+  "food": "raspberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a piece about the size of your hamster's head, no more than once a week, and less for a dwarf.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-raspberries"
+ },
+ {
+  "animal": "hamsters",
+  "food": "rice",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, plain rice is safe: a few dry grains, or a pinch of plain cooked rice, now and then. Never fried, salted, seasoned or sticky rice.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-rice"
+ },
+ {
+  "animal": "hamsters",
+  "food": "spinach",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: one or two washed baby spinach leaves, two or three times a week, rotated with other greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-spinach"
+ },
+ {
+  "animal": "hamsters",
+  "food": "strawberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes for Syrians: a fingernail-sized piece once or twice a week. Dwarf hamsters are best skipping strawberries because of the sugar.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-strawberries"
+ },
+ {
+  "animal": "hamsters",
+  "food": "sweet potato",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a peeled, plain piece of sweet potato the size of your fingernail, raw or cooked, once or twice a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-sweet-potato"
+ },
+ {
+  "animal": "hamsters",
+  "food": "sweetcorn",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes for Syrians and Roborovskis: one or two plain kernels a couple of times a week. Campbell's and winter white dwarfs should skip it.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-sweetcorn"
+ },
+ {
+  "animal": "hamsters",
+  "food": "tomatoes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: Woodgreen lists tomato as harmful, and the leaves, stalks and green fruit are poisonous to hamsters. Offer cucumber or pepper instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-tomatoes"
+ },
+ {
+  "animal": "hamsters",
+  "food": "watermelon",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, now and then: a seedless cube of red flesh about 1 cm (0.4 in) across, once a week at most.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-watermelon"
+ },
+ {
+  "animal": "hamsters",
+  "food": "weetabix",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only a dry crumb now and then: a fingernail-sized piece of plain Weetabix is fine for a Syrian. Never with milk, and skip flavoured kinds.",
+  "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-weetabix"
+ },
+ {
+  "animal": "mice",
+  "food": "apples",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a fingernail-sized piece of apple once or twice a week, with every pip, the core and the stalk removed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-apples"
+ },
+ {
+  "animal": "mice",
+  "food": "bananas",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as an occasional treat: a fingernail-sized piece of ripe banana, about once a week. It is very sugary, so keep it small.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-bananas"
+ },
+ {
+  "animal": "mice",
+  "food": "blueberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: about half a blueberry per mouse, once or twice a week. Fresh or frozen and thawed, never dried, sweetened or in muffins.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-blueberries"
+ },
+ {
+  "animal": "mice",
+  "food": "broccoli",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes, broccoli is an everyday vegetable for mice: a fingernail-sized piece of washed floret per mouse, raw or plainly steamed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-broccoli"
+ },
+ {
+  "animal": "mice",
+  "food": "cabbage",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, a little: a thumbnail-sized piece of raw green cabbage leaf two or three times a week. Darker savoy and spring greens are the best types.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-cabbage"
+ },
+ {
+  "animal": "mice",
+  "food": "carrots",
+  "answer": "yes",
+  "how_often": "weekly",
+  "short_answer": "Yes: carrot is a good mouse vegetable. A thin slice (about 0.5 g) a few times a week, raw and washed, rotated with greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-carrots"
+ },
+ {
+  "animal": "mice",
+  "food": "cauliflower",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as an extra: a fingernail-sized piece of raw cauliflower two or three times a week. Darker greens like broccoli and kale are better daily.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-cauliflower"
+ },
+ {
+  "animal": "mice",
+  "food": "celery",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only now and then. Celery is not harmful, but it is mostly water: a tiny string-free piece of stalk or a celery leaf, occasionally, is the most to give.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-celery"
+ },
+ {
+  "animal": "mice",
+  "food": "cheese",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: cheese is not poisonous, but adult mice digest dairy poorly and it is fatty and salty, so skip it and offer a pea-sized piece of veg instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-cheese"
+ },
+ {
+  "animal": "mice",
+  "food": "chocolate",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: chocolate contains theobromine and caffeine, which are toxic to mice even in small amounts. Dark chocolate and cocoa powder are the most dangerous.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-chocolate"
+ },
+ {
+  "animal": "mice",
+  "food": "crackers",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, a crumb of plain or wholegrain cracker once or twice a week is fine. Skip salted, cheesy, buttery or flavoured crackers.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-crackers"
+ },
+ {
+  "animal": "mice",
+  "food": "cucumber",
+  "answer": "yes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a thin, fingernail-sized piece of cucumber, peeled or unpeeled, a few times a week. It is mostly water, so pair it with greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-cucumber"
+ },
+ {
+  "animal": "mice",
+  "food": "grapes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: the RSPCA and RSPCA Australia both say not to feed grapes or raisins to mice. Ring a vet if your mouse has eaten some.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-grapes"
+ },
+ {
+  "animal": "mice",
+  "food": "kale",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes, kale is an everyday green for mice: a small torn piece of washed leaf, about the size of a thumbnail, per mouse, stem removed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-kale"
+ },
+ {
+  "animal": "mice",
+  "food": "lemons",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: PetMD says mice should not eat citrus, and lemon is the most acidic. A lick won't poison a mouse, but don't offer it.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-lemons"
+ },
+ {
+  "animal": "mice",
+  "food": "lettuce",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA says not to feed pet mice lettuce because it can cause diarrhoea. Kale, broccoli and pak choi are better greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-lettuce"
+ },
+ {
+  "animal": "mice",
+  "food": "oranges",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "Best not: PetMD says mice should not eat citrus, so skip oranges, satsumas and juice. A nibble is unlikely to cause more than a mild upset.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-oranges"
+ },
+ {
+  "animal": "mice",
+  "food": "raspberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a small piece of raspberry, about a quarter of one berry per mouse, once or twice a week. Fresh or thawed, never jam or sweetened.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-raspberries"
+ },
+ {
+  "animal": "mice",
+  "food": "spinach",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, now and then: a thumbnail-sized piece of raw spinach leaf once or twice a week. It is high in oxalates, so kale makes a better daily green.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-spinach"
+ },
+ {
+  "animal": "mice",
+  "food": "strawberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a fingernail-sized piece of strawberry (0.5 to 1 g) once or twice a week. Wash it and take off the green top.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-strawberries"
+ },
+ {
+  "animal": "mice",
+  "food": "tomatoes",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, ripe tomato flesh in a fingernail-sized piece once a week. Never unripe tomatoes, leaves, stalks or the plant.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-tomatoes"
+ },
+ {
+  "animal": "mice",
+  "food": "watermelon",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a fingernail-sized cube of red watermelon flesh, seeds out, once or twice a week. Skip the rind.",
+  "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-watermelon"
+ },
+ {
+  "animal": "rabbits",
+  "food": "Can rabbits eat orange peel",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Orange peel isn't poisonous, but it is tough, oily and may carry pesticide, so peel any orange before a rabbit gets a bite.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-orange-peel"
+ },
+ {
+  "animal": "rabbits",
+  "food": "apples",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a thin slice (about an eighth of an apple), pips and core removed, once or twice a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-apples"
+ },
+ {
+  "animal": "rabbits",
+  "food": "avocado",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Avocado is on the avoid lists of the RSPCA, Burgess and Woodgreen: it is very fatty, and the plant is known to harm some animals.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-avocado"
+ },
+ {
+  "animal": "rabbits",
+  "food": "bananas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, rarely: one thin slice of peeled banana, about once a week. It is one of the sweetest fruits a rabbit can have.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-bananas"
+ },
+ {
+  "animal": "rabbits",
+  "food": "biscuits",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Human biscuits (cookies) are sugar, fat and flour. Rabbit nuggets, sometimes called rabbit biscuits, are fine in measured amounts.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-biscuits"
+ },
+ {
+  "animal": "rabbits",
+  "food": "blueberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: two or three fresh blueberries, once or twice a week, for an average rabbit.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-blueberries"
+ },
+ {
+  "animal": "rabbits",
+  "food": "bok choy",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes. Bok choy (pak choi) is a safe leafy green: feed it raw, leaves and stalks, as one of several greens in the daily mix.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-bok-choy"
+ },
+ {
+  "animal": "rabbits",
+  "food": "bread",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Bread is starchy and low in fibre, and the RSPCA lists it among foods to avoid. A stolen crust is rarely an emergency, but watch the droppings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-bread"
+ },
+ {
+  "animal": "rabbits",
+  "food": "broccoli",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in moderation: a small raw floret or some leaves a few times a week. The leaves are the best part; too much can cause gas.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-broccoli"
+ },
+ {
+  "animal": "rabbits",
+  "food": "buckwheat",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: buckwheat groats, flakes and flour are starchy seeds, and rabbit charities advise against grains and cereals. Stick to hay and greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-buckwheat"
+ },
+ {
+  "animal": "rabbits",
+  "food": "cabbage",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a leaf or two of raw cabbage a few times a week, rotated with other greens. Too much at once can cause gas.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-cabbage"
+ },
+ {
+  "animal": "rabbits",
+  "food": "carrots",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat only: a piece about 1 cm across, once or twice a week. Carrots are sugary; the leafy tops are the better daily green.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-carrots"
+ },
+ {
+  "animal": "rabbits",
+  "food": "cat food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Cat food is meat-based and low in fibre. Remove it, watch appetite and droppings, and ring a vet if either drops.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-cat-food"
+ },
+ {
+  "animal": "rabbits",
+  "food": "cauliflower",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in moderation. The leaves are the best part, florets are fine in small pieces. Rotate it with other greens as brassicas can cause gas.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-cauliflower"
+ },
+ {
+  "animal": "rabbits",
+  "food": "celery",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: raw celery leaves and a short piece of stalk, cut small, a few times a week. Too much every day is not ideal.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-celery"
+ },
+ {
+  "animal": "rabbits",
+  "food": "cheese",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Cheese is fatty dairy with no fibre, and the RSPCA lists dairy among foods rabbits must avoid. Remove it and watch appetite and droppings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-cheese"
+ },
+ {
+  "animal": "rabbits",
+  "food": "cherries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one fresh cherry (two for a big rabbit), stone and stalk removed, once a week. Never the stones, leaves or glace cherries.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-cherries"
+ },
+ {
+  "animal": "rabbits",
+  "food": "chocolate",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Chocolate is toxic to rabbits. If yours ate any, ring your vet straight away with the type and amount, without waiting for signs.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-chocolate"
+ },
+ {
+  "animal": "rabbits",
+  "food": "courgette",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a slice or two of raw courgette (zucchini) a few times a week. The flowers are fine too; skip the leaves.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-courgette"
+ },
+ {
+  "animal": "rabbits",
+  "food": "crackers",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: crackers are starchy, salty and low in fibre, and rabbit charities list them as foods to avoid. One stolen bite is rarely an emergency.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-crackers"
+ },
+ {
+  "animal": "rabbits",
+  "food": "cucumber",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as an extra: one or two thin slices of raw cucumber a few times a week. Cucumber leaves are safe too.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-cucumber"
+ },
+ {
+  "animal": "rabbits",
+  "food": "eggs",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Rabbits are strict plant-eaters, and the RSPCA lists eggs alongside meat and dairy as foods rabbits should avoid, cooked or raw.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-eggs"
+ },
+ {
+  "animal": "rabbits",
+  "food": "fennel",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: fennel fronds, stalks and bulb are all safe raw, as one of the greens in a daily mix. Leave out fennel seeds.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-fennel"
+ },
+ {
+  "animal": "rabbits",
+  "food": "grapes",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a rare treat: one grape, halved, once or twice a week at most. No raisins, juice or grape leaves from sprayed vines.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-grapes"
+ },
+ {
+  "animal": "rabbits",
+  "food": "kale",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in moderation: a leaf or two, raw, a few times a week. Kale is high in calcium and a gassy brassica, so rotate it with other greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-kale"
+ },
+ {
+  "animal": "rabbits",
+  "food": "kiwi",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one thin slice of peeled kiwi fruit, about 5 mm (1/4 in) thick, once a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-kiwi"
+ },
+ {
+  "animal": "rabbits",
+  "food": "leeks",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Leeks are in the onion family and the RSPCA lists them as a food to avoid. If your rabbit ate some, ring your vet.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-leeks"
+ },
+ {
+  "animal": "rabbits",
+  "food": "lettuce",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes, dark lettuce such as romaine is a good daily green, mixed with others. Iceberg is a no: watery, low in goodness and linked to loose droppings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-lettuce"
+ },
+ {
+  "animal": "rabbits",
+  "food": "mango",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a rare treat: one peeled cube about 2 cm (3/4 in) across, once a week. Never the stone, and skip dried mango.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-mango"
+ },
+ {
+  "animal": "rabbits",
+  "food": "mushrooms",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: the RSPCA lists mushrooms as a food to avoid, and wild garden fungi can be poisonous. Ring your vet if your rabbit has eaten a wild one.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-mushrooms"
+ },
+ {
+  "animal": "rabbits",
+  "food": "onions",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Onions and the rest of the onion family, cooked or raw, are on the avoid lists of the RSPCA and Rabbit Welfare Association.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-onions"
+ },
+ {
+  "animal": "rabbits",
+  "food": "oranges",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only rarely: a quarter of a peeled segment, pips out, once or twice a month for an adult rabbit. No peel or juice.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-oranges"
+ },
+ {
+  "animal": "rabbits",
+  "food": "pak choi",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes. Pak choi is an RWAF-listed leafy green: serve it raw, leaves and stalks, as one of five or six fresh foods in the day.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pak-choi"
+ },
+ {
+  "animal": "rabbits",
+  "food": "parsnips",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a small piece of raw parsnip, about 1 cm across, once or twice a week. Never cooked or roasted.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-parsnips"
+ },
+ {
+  "animal": "rabbits",
+  "food": "peaches",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one thin slice of fresh peach, stone removed, once a week. Never the stone or leaves, and no tinned peaches.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peaches"
+ },
+ {
+  "animal": "rabbits",
+  "food": "peanut butter",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Peanut butter is very high in fat, nuts and legumes are on rabbit avoid lists, and some brands contain xylitol. Never use it as a treat.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peanut-butter"
+ },
+ {
+  "animal": "rabbits",
+  "food": "pears",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: up to an eighth of a pear, with the core and pips cut out, once or twice a week. Pear leaves and twigs are fine too.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pears"
+ },
+ {
+  "animal": "rabbits",
+  "food": "peas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Flat pods yes: one or two sugar snap or mangetout pods a few times a week. Shelled, frozen or tinned peas are too starchy, so skip them.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peas"
+ },
+ {
+  "animal": "rabbits",
+  "food": "peppers",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, sweet bell peppers in small pieces, seeds and stalk removed, once or twice a week. Green is lowest in sugar. Chilli peppers are a no.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peppers"
+ },
+ {
+  "animal": "rabbits",
+  "food": "pineapple",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one small chunk of fresh, peeled pineapple about 2 cm (3/4 in) across, once a week. No skin, crown or tinned pineapple.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pineapple"
+ },
+ {
+  "animal": "rabbits",
+  "food": "popcorn",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA lists dried corn (maize) and Rabbit.org lists popcorn itself as foods to avoid. Plain, salted, sweet or buttered, it is a no.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-popcorn"
+ },
+ {
+  "animal": "rabbits",
+  "food": "potatoes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Potatoes, raw or cooked, and potato plants are on the avoid lists of the RSPCA and Rabbit Welfare Association.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-potatoes"
+ },
+ {
+  "animal": "rabbits",
+  "food": "pumpkin",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a small piece of raw pumpkin flesh, a couple of times a week. No seeds, no pie filling, no old carved pumpkins.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pumpkin"
+ },
+ {
+  "animal": "rabbits",
+  "food": "pumpkin seeds",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No: pumpkin seeds are fatty and hard to digest, and rabbit charities advise against seeds. A small piece of raw pumpkin flesh is fine instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pumpkin-seeds"
+ },
+ {
+  "animal": "rabbits",
+  "food": "raspberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one or two fresh raspberries once or twice a week. Raspberry leaves are a healthier everyday option than the fruit.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-raspberries"
+ },
+ {
+  "animal": "rabbits",
+  "food": "rice",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Rice is a starchy cereal grain, and charities say to keep cereals and starchy foods away from rabbits, cooked, uncooked or puffed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-rice"
+ },
+ {
+  "animal": "rabbits",
+  "food": "rosemary",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a small sprig of fresh rosemary a few times a week, as one of several rotated herbs and greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-rosemary"
+ },
+ {
+  "animal": "rabbits",
+  "food": "seeds",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Seeds are fatty and the House Rabbit Society says not to feed them; apple pips and fruit stones are harmful. Soft seeds inside cucumber are fine.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-seeds"
+ },
+ {
+  "animal": "rabbits",
+  "food": "spinach",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, now and then: a few raw leaves once or twice a week, mixed with other greens. Spinach is high in oxalates, so it should not be a daily staple.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-spinach"
+ },
+ {
+  "animal": "rabbits",
+  "food": "spring greens",
+  "answer": "yes",
+  "how_often": "weekly",
+  "short_answer": "Yes: spring greens are a great leafy green for rabbits. A few leaves several times a week, mixed and rotated with other greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-spring-greens"
+ },
+ {
+  "animal": "rabbits",
+  "food": "strawberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: half to one small strawberry once or twice a week. Strawberry leaves are safe and less sugary.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-strawberries"
+ },
+ {
+  "animal": "rabbits",
+  "food": "sunflower seeds",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Sunflower seeds are fatty and the House Rabbit Society says not to feed seeds. The plant's leaves and flowers are on the RWAF safe list.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-sunflower-seeds"
+ },
+ {
+  "animal": "rabbits",
+  "food": "sweet potato",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA lists sweet potatoes, raw or cooked, among the foods rabbits should avoid. They are too starchy and sweet for a rabbit gut.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-sweet-potato"
+ },
+ {
+  "animal": "rabbits",
+  "food": "sweetcorn",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA and Rabbit.org both list sweetcorn (corn) as a food to avoid. Fresh, tinned, frozen or dried corn in treats, keep it off the menu.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-sweetcorn"
+ },
+ {
+  "animal": "rabbits",
+  "food": "tomatoes",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, ripe flesh only: a cherry tomato or one slice, about once a week. Never the leaves, stems or green tomatoes.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-tomatoes"
+ },
+ {
+  "animal": "rabbits",
+  "food": "watermelon",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a rare treat: a 2 cm (3/4 in) cube of seedless watermelon flesh, once or twice a week at most. No seeds or green skin.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-watermelon"
+ },
+ {
+  "animal": "rabbits",
+  "food": "weetabix",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Weetabix is a starchy breakfast cereal, and welfare charities list cereals among foods rabbits should not eat. Offer hay and greens instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-weetabix"
+ },
+ {
+  "animal": "rats",
+  "food": "almonds",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a rare treat: one plain, unsalted sweet almond, chopped or in the shell, once or twice a week. Never give bitter almonds.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-almonds"
+ },
+ {
+  "animal": "rats",
+  "food": "apples",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a small piece of washed apple flesh, core and seeds removed, a few times a week. Skin is fine.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-apples"
+ },
+ {
+  "animal": "rats",
+  "food": "avocado",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Avocado is on vet and charity avoid lists, flesh included. Offer other foods instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-avocado"
+ },
+ {
+  "animal": "rats",
+  "food": "bananas",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, ripe banana as a treat: a piece the size of your rat's ear, about once a week. Avoid green banana.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-bananas"
+ },
+ {
+  "animal": "rats",
+  "food": "blueberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: two or three blueberries per rat, a few times a week, fresh or thawed.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-blueberries"
+ },
+ {
+  "animal": "rats",
+  "food": "bread",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as a treat: a small piece of plain, dry or toasted wholemeal bread once a week at most. Never raisin, garlic, sweet or spoiled bread.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-bread"
+ },
+ {
+  "animal": "rats",
+  "food": "broccoli",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes, an everyday vegetable: a floret or two per rat a day, raw or lightly steamed. Stalks and leaves are fine.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-broccoli"
+ },
+ {
+  "animal": "rats",
+  "food": "butternut squash",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a cube of plain butternut squash, cooked or raw, a few times a week. Peel it and keep the fatty seeds as a rare extra.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-butternut-squash"
+ },
+ {
+  "animal": "rats",
+  "food": "cabbage",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts. Spring and savoy cabbage are best, white cabbage can cause gas, and red cabbage is best avoided.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-cabbage"
+ },
+ {
+  "animal": "rats",
+  "food": "carrots",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a small piece of washed carrot, raw or plain cooked and cooled, two or three times a week. Carrot tops are fine too.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-carrots"
+ },
+ {
+  "animal": "rats",
+  "food": "cat food",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only a bite now and then. Cat food is not toxic to rats, but it is far richer than they need, so never use it as their main food.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-cat-food"
+ },
+ {
+  "animal": "rats",
+  "food": "cauliflower",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes, an everyday vegetable: a small floret per rat a day, raw or lightly steamed. Leaves and stalk are fine.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-cauliflower"
+ },
+ {
+  "animal": "rats",
+  "food": "celery",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes. Celery leaves are the best part; a thin slice of stalk, strings removed, once or twice a week is plenty because it is mostly water.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-celery"
+ },
+ {
+  "animal": "rats",
+  "food": "cheese",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only a pea-sized crumb of mild hard cheese, rarely. Never blue cheese. Most rats are better off with other treats.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-cheese"
+ },
+ {
+  "animal": "rats",
+  "food": "cherries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, the flesh only: half a stoned cherry per rat about once a week. Never the stone, stalk or leaves.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-cherries"
+ },
+ {
+  "animal": "rats",
+  "food": "chocolate",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA lists chocolate as harmful to rats. Keep every kind away, and ring your vet if a rat eats more than a crumb.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-chocolate"
+ },
+ {
+  "animal": "rats",
+  "food": "courgette",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes. Courgette (zucchini) is a safe everyday vegetable for rats: a thin slice or small cube, raw or plain cooked, skin on.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-courgette"
+ },
+ {
+  "animal": "rats",
+  "food": "cucumber",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, safe: three or four small cubes every few days. It is mostly water, so it is a refreshing extra, not a main vegetable.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-cucumber"
+ },
+ {
+  "animal": "rats",
+  "food": "dark chocolate",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Dark chocolate carries the most theobromine and caffeine of any chocolate, so keep it away from rats completely.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-dark-chocolate"
+ },
+ {
+  "animal": "rats",
+  "food": "eggs",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, cooked: half to one teaspoon of plain boiled or scrambled egg, once or twice a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-eggs"
+ },
+ {
+  "animal": "rats",
+  "food": "grapes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA and RSPCA Australia list grapes as harmful to rats, so leave out green, red and seedless grapes alike.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-grapes"
+ },
+ {
+  "animal": "rats",
+  "food": "green beans",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes. Plain green beans are a good everyday vegetable for rats: a piece or two a day, lightly cooked to be on the safe side.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-green-beans"
+ },
+ {
+  "animal": "rats",
+  "food": "guinea pig food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No, not as their regular food. The RSPCA says rats need food made for rats; a stolen nibble of guinea pig pellets is not an emergency.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-guinea-pig-food"
+ },
+ {
+  "animal": "rats",
+  "food": "hamster food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No, not as their regular diet. The RSPCA says feed rats food made for rats; a stolen nibble of hamster food is not an emergency.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-hamster-food"
+ },
+ {
+  "animal": "rats",
+  "food": "kale",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes, kale is one of the best everyday greens for rats: a small torn piece of leaf per rat as part of the daily fresh veg.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-kale"
+ },
+ {
+  "animal": "rats",
+  "food": "kiwi",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a peeled piece of ripe kiwi about the size of your rat's ear, a few times a week. The tiny black seeds are fine.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-kiwi"
+ },
+ {
+  "animal": "rats",
+  "food": "lettuce",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a leaf or two of washed romaine or other dark lettuce, a few times a week. Vets advise skipping iceberg, and never add dressing.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-lettuce"
+ },
+ {
+  "animal": "rats",
+  "food": "mango",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Supreme Petfoods lists mango as never for rats and WebMD says to avoid it, so we would pick banana or blueberries instead.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-mango"
+ },
+ {
+  "animal": "rats",
+  "food": "marshmallows",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. Marshmallows are nearly two-thirds sugar and sticky, and RSPCA Australia warns against sticky foods that could choke a rat.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-marshmallows"
+ },
+ {
+  "animal": "rats",
+  "food": "mealworms",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a protein treat: one or two mealworms per rat, two or three times a week. Pet-grade only.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-mealworms"
+ },
+ {
+  "animal": "rats",
+  "food": "mushrooms",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Shop-bought button or oyster mushrooms, plain, as an occasional treat. Never wild mushrooms.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-mushrooms"
+ },
+ {
+  "animal": "rats",
+  "food": "oranges",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA and Burgess both list citrus fruits as harmful to rats, so skip oranges and pick another fruit.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-oranges"
+ },
+ {
+  "animal": "rats",
+  "food": "pak choi",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes: a washed leaf of pak choi (bok choy), raw or plain steamed and cooled, as part of the daily fresh-food allowance.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-pak-choi"
+ },
+ {
+  "animal": "rats",
+  "food": "peaches",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a small piece of ripe, washed peach flesh a few times a week. Always remove the stone, and skip tinned peaches in syrup.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-peaches"
+ },
+ {
+  "animal": "rats",
+  "food": "peanut butter",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only as a rare, very thin smear. It is not toxic, but a sticky lump of peanut butter is the food rats most often choke on.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-peanut-butter"
+ },
+ {
+  "animal": "rats",
+  "food": "peanuts",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only roasted, unsalted peanuts: half to one per rat, once a week at most. Not raw, not salted.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-peanuts"
+ },
+ {
+  "animal": "rats",
+  "food": "pears",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a piece of fresh pear the size of your rat's ear, a few times a week, with the core and pips cut out.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-pears"
+ },
+ {
+  "animal": "rats",
+  "food": "peas",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "Yes. A few plain peas, fresh, thawed frozen or lightly cooked, are a good part of a rat's daily vegetables.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-peas"
+ },
+ {
+  "animal": "rats",
+  "food": "peppers",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, sweet (bell) peppers of any colour are safe: a small strip once or twice a week. Never chillies, jalapenos or spicy peppers.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-peppers"
+ },
+ {
+  "animal": "rats",
+  "food": "plums",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as an occasional treat: a piece of ripe plum the size of your rat's ear, stone removed. Never give the stone, and skip prunes.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-plums"
+ },
+ {
+  "animal": "rats",
+  "food": "popcorn",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, plain popcorn is a safe treat: two or three popped pieces with no salt, butter, sugar or oil, a couple of times a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-popcorn"
+ },
+ {
+  "animal": "rats",
+  "food": "rabbit food",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No, not as their regular food. The RSPCA says rabbit pellets don't give rats what they need; a stolen nibble is not an emergency.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-rabbit-food"
+ },
+ {
+  "animal": "rats",
+  "food": "raisins",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "No. The RSPCA and RSPCA Australia list raisins as harmful to rats; sultanas and currants get the same answer.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-raisins"
+ },
+ {
+  "animal": "rats",
+  "food": "raspberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: one fresh raspberry per adult rat, or half for a young one, no more than once a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-raspberries"
+ },
+ {
+  "animal": "rats",
+  "food": "rice",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, plain cooked rice as a treat: about a teaspoon per rat once or twice a week. Skip fried or seasoned rice.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-rice"
+ },
+ {
+  "animal": "rats",
+  "food": "salmon",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, as an occasional protein treat: a thumbnail-sized piece of plain cooked salmon, boneless, once a week. Never raw or smoked.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-salmon"
+ },
+ {
+  "animal": "rats",
+  "food": "seeds",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: plain pumpkin, sunflower, flax, hemp or sesame seeds, about a quarter teaspoon once or twice a week. Never apple pips or fruit stones.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-seeds"
+ },
+ {
+  "animal": "rats",
+  "food": "spinach",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, in small amounts: a leaf or two once or twice a week. Its oxalates mean kale or savoy cabbage make better everyday greens.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-spinach"
+ },
+ {
+  "animal": "rats",
+  "food": "squash",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes: a small cube of plain butternut or other squash, raw or cooked and cooled, a few times a week. Not the squash drink.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-squash"
+ },
+ {
+  "animal": "rats",
+  "food": "strawberries",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a piece of washed strawberry about the size of your rat's ear, a few times a week.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-strawberries"
+ },
+ {
+  "animal": "rats",
+  "food": "sunflower seeds",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a few plain, unsalted sunflower seeds once or twice a week. They are very fatty, so never make them the main food.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-sunflower-seeds"
+ },
+ {
+  "animal": "rats",
+  "food": "tomatoes",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, ripe tomato in small pieces a few times a week. Never green tomatoes, leaves or stalks.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-tomatoes"
+ },
+ {
+  "animal": "rats",
+  "food": "watermelon",
+  "answer": "sometimes",
+  "how_often": "weekly",
+  "short_answer": "Yes, as a treat: a small piece of watermelon flesh a few times a week, hard seeds removed. Other melons get the same answer.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-watermelon"
+ },
+ {
+  "animal": "rats",
+  "food": "weetabix",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Yes, in small amounts: a fingernail-sized piece of plain Weetabix Original now and then. Skip chocolate versions, milk and toppings.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-weetabix"
+ },
+ {
+  "animal": "rats",
+  "food": "yoghurt",
+  "answer": "sometimes",
+  "how_often": "occasional",
+  "short_answer": "Only a fingertip lick of plain, unsweetened yoghurt, now and then. Skip flavoured yoghurt and yoghurt drops.",
+  "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-yoghurt"
+ }
+]
