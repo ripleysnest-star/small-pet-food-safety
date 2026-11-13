@@ -23,6 +23,11 @@ Answers: 28 yes, 178 sometimes, 100 no.
 - `small-pet-foods.csv`: one row per animal and food.
 - `small-pet-foods.json`: the same rows as JSON.
 
+## Ready-made charts and a tool for your site
+
+- **Printable charts**, one A4 page per animal, sorted into yes, sometimes and no, with cage sizes: [rats](https://tools.bruxlings.com/charts/rats/), [rabbits](https://tools.bruxlings.com/charts/rabbits/), [guinea pigs](https://tools.bruxlings.com/charts/guinea-pigs/), [hamsters](https://tools.bruxlings.com/charts/hamsters/), [mice](https://tools.bruxlings.com/charts/mice/), [gerbils](https://tools.bruxlings.com/charts/gerbils/), [chinchillas](https://tools.bruxlings.com/charts/chinchillas/), [degus](https://tools.bruxlings.com/charts/degus/), [ferrets](https://tools.bruxlings.com/charts/ferrets/). Same licence.
+- **A food checker you can put on your own page**, with search as you type and the sources under every answer: the copy-paste code is at [bruxlings.com/pages/food-checker#embed](https://bruxlings.com/pages/food-checker#embed). There is a [cage size checker](https://bruxlings.com/pages/cage-checker#embed) too.
+
 ## Use it
 
 Free to use, share and adapt, including in articles, apps, charts and printed sheets, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit it with a link:
