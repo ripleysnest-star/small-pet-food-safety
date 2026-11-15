@@ -16,7 +16,7 @@ Each row gives the animal, the food, a short answer (`yes`, `sometimes` or `no`)
 | Rabbits | 238 | 75 |
 | Rats | 226 | 67 |
 
-Answers: 125 yes, 513 sometimes, 640 no. 4,339 search names in all (the food's name plus other names people use for it), from 351 source pages.
+Answers: 125 yes, 513 sometimes, 640 no. 4,339 search names in all (the food's name plus other names people use for it), from 350 source pages.
 
 ## Files
 
