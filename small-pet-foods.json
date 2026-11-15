@@ -90,7 +90,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-apples",
   "has_page": true,
   "search_names": [
-   "apple",
    "apple peel",
    "apple skin",
    "applesauce",
@@ -247,7 +246,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-bananas",
   "has_page": true,
   "search_names": [
-   "banana",
    "banana chip",
    "banana peel",
    "dehydrated banana",
@@ -372,7 +370,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-blueberries",
   "has_page": true,
   "search_names": [
-   "blueberry",
    "dried blueberries",
    "dried blueberry",
    "freeze dried blueberry",
@@ -540,7 +537,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-carrots",
   "has_page": true,
   "search_names": [
-   "carrot",
    "dried carrot",
    "raw carrot"
   ]
@@ -889,13 +885,11 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-dandelions",
   "has_page": true,
   "search_names": [
-   "dandelion",
    "dandelion flower",
    "dandelion leaf",
    "dandelion root",
    "dried dandelion",
    "dried dandelions",
-   "fresh dandelion",
    "dandelion green",
    "wild dandelion"
   ]
@@ -1016,7 +1010,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-grapes",
   "has_page": true,
   "search_names": [
-   "grape",
    "fresh grape",
    "green grape",
    "red grape"
@@ -1458,7 +1451,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-nuts",
   "has_page": true,
   "search_names": [
-   "nut",
    "acorn",
    "almond",
    "almonds",
@@ -1805,9 +1797,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-raisins",
   "has_page": true,
-  "search_names": [
-   "raisin"
-  ]
+  "search_names": []
  },
  {
   "animal": "chinchillas",
@@ -1862,7 +1852,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-rose-hips",
   "has_page": true,
   "search_names": [
-   "rose hip",
    "dried rose hip",
    "dried rosehip",
    "rosehip",
@@ -2032,7 +2021,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-strawberries",
   "has_page": true,
   "search_names": [
-   "strawberry",
    "dehydrated strawberry",
    "dried strawberry",
    "freeze dried strawberry",
@@ -2100,9 +2088,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-chinchillas-eat-sunflower-seeds",
   "has_page": true,
-  "search_names": [
-   "sunflower seed"
-  ]
+  "search_names": []
  },
  {
   "animal": "chinchillas",
@@ -2383,9 +2369,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-apples",
   "has_page": true,
-  "search_names": [
-   "apple"
-  ]
+  "search_names": []
  },
  {
   "animal": "degus",
@@ -2463,9 +2447,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-bananas",
   "has_page": true,
-  "search_names": [
-   "banana"
-  ]
+  "search_names": []
  },
  {
   "animal": "degus",
@@ -2673,9 +2655,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-carrots",
   "has_page": true,
-  "search_names": [
-   "carrot"
-  ]
+  "search_names": []
  },
  {
   "animal": "degus",
@@ -2830,7 +2810,7 @@
   "food": "cucumber",
   "answer": "sometimes",
   "how_often": "occasional",
-  "short_answer": "Yes, about once a month: a few thumbnail-sized bits of cucumber, skin on, as part of a mixed veg portion.",
+  "short_answer": "Sometimes: a few thumbnail-sized bits of cucumber, skin on, about once a month, as part of a mixed veg portion.",
   "how": "",
   "why": "",
   "sources": [
@@ -3038,9 +3018,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-degus-eat-grapes",
   "has_page": true,
-  "search_names": [
-   "grape"
-  ]
+  "search_names": []
  },
  {
   "animal": "degus",
@@ -3967,7 +3945,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-bananas",
   "has_page": true,
   "search_names": [
-   "banana",
    "banana chip",
    "banana chips",
    "banana treat",
@@ -4047,7 +4024,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-bones",
   "has_page": true,
   "search_names": [
-   "bone",
    "do ferrets have bones",
    "raw bone",
    "raw bones",
@@ -4553,7 +4529,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-eggs",
   "has_page": true,
   "search_names": [
-   "egg",
    "a boiled egg",
    "an egg",
    "boiled egg",
@@ -4891,7 +4866,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-ferrets-eat-grapes",
   "has_page": true,
   "search_names": [
-   "grape",
    "currant",
    "currants",
    "green grape",
@@ -6006,7 +5980,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-apples",
   "has_page": true,
   "search_names": [
-   "apple",
    "apple slice",
    "fresh apple",
    "granny smith apple",
@@ -6106,7 +6079,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-bananas",
   "has_page": true,
   "search_names": [
-   "banana",
    "banana chip",
    "dried banana",
    "dried banana chip",
@@ -6208,7 +6180,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-blueberries",
   "has_page": true,
   "search_names": [
-   "blueberry",
    "blueberry raw",
    "dried blueberry",
    "fresh blueberry"
@@ -6357,7 +6328,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-carrots",
   "has_page": true,
   "search_names": [
-   "carrot",
    "raw carrot"
   ]
  },
@@ -6838,7 +6808,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-grapes",
   "has_page": true,
   "search_names": [
-   "grape",
    "green grape",
    "raisin",
    "red grape"
@@ -7411,7 +7380,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-oranges",
   "has_page": true,
   "search_names": [
-   "orange",
    "lemon",
    "lemon juice",
    "orange juice",
@@ -7700,7 +7668,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-pumpkin-seeds",
   "has_page": true,
   "search_names": [
-   "pumpkin seed",
    "fresh pumpkin seed",
    "raw pumpkin seed",
    "roasted pumpkin seed"
@@ -7730,9 +7697,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-raspberries",
   "has_page": true,
-  "search_names": [
-   "raspberry"
-  ]
+  "search_names": []
  },
  {
   "animal": "gerbils",
@@ -7795,7 +7760,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-strawberries",
   "has_page": true,
   "search_names": [
-   "strawberry",
    "fresh strawberry"
   ]
  },
@@ -7891,7 +7855,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-gerbils-eat-tomatoes",
   "has_page": true,
   "search_names": [
-   "tomato",
    "baby tomato",
    "cherry tomato",
    "grape tomato"
@@ -8136,7 +8099,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-almonds",
   "has_page": true,
   "search_names": [
-   "almond",
    "almond nut"
   ]
  },
@@ -8249,7 +8211,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-apples",
   "has_page": true,
   "search_names": [
-   "apple",
    "apple slice"
   ]
  },
@@ -8406,8 +8367,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-bananas",
   "has_page": true,
   "search_names": [
-   "banana",
-   "banana peel",
    "banana peels",
    "banana skin",
    "banana skins"
@@ -8540,7 +8499,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-blackberries",
   "has_page": true,
   "search_names": [
-   "blackberry",
    "blackberry raw"
   ]
  },
@@ -8601,7 +8559,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-blueberries",
   "has_page": true,
   "search_names": [
-   "blueberry",
    "blueberry raw"
   ]
  },
@@ -8895,9 +8852,7 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-carrots",
   "has_page": true,
   "search_names": [
-   "baby carrot",
    "baby carrots",
-   "carrot",
    "carrot raw",
    "carrot raw or cooked"
   ]
@@ -9638,9 +9593,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-crackers",
   "has_page": true,
-  "search_names": [
-   "cracker"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -9836,7 +9789,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-dandelions",
   "has_page": true,
   "search_names": [
-   "dandelion",
    "dandelion from garden",
    "dandelion from outside",
    "dandelion from yard",
@@ -10033,7 +9985,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-eggs",
   "has_page": true,
   "search_names": [
-   "egg",
    "boiled egg",
    "egg shell",
    "egg white",
@@ -10423,7 +10374,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-grapes",
   "has_page": true,
   "search_names": [
-   "grape",
    "grape green",
    "grape purple",
    "grape red",
@@ -10543,7 +10493,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-green-beans",
   "has_page": true,
   "search_names": [
-   "green bean",
    "fine bean",
    "fine bean raw",
    "french bean",
@@ -10890,7 +10839,6 @@
    "kiwi berry",
    "kiwi fruit",
    "yellow kiwi",
-   "kiwi skin",
    "kiwi fruit skin",
    "kiwi peel"
   ]
@@ -11260,9 +11208,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-mushrooms",
   "has_page": true,
-  "search_names": [
-   "mushroom"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -11338,9 +11284,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-nectarines",
   "has_page": true,
-  "search_names": [
-   "nectarine"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -11469,7 +11413,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-onions",
   "has_page": true,
   "search_names": [
-   "onion",
    "green onion",
    "green onion leaf",
    "green onion stem",
@@ -11521,7 +11464,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-oranges",
   "has_page": true,
   "search_names": [
-   "orange",
    "easy peel orange",
    "easy peeler"
   ]
@@ -11719,9 +11661,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peaches",
   "has_page": true,
-  "search_names": [
-   "peach"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -11798,7 +11738,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peanuts",
   "has_page": true,
   "search_names": [
-   "peanut",
    "unsalted peanut"
   ]
  },
@@ -11842,9 +11781,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-pears",
   "has_page": true,
-  "search_names": [
-   "pear"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -11883,7 +11820,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peas",
   "has_page": true,
   "search_names": [
-   "pea",
    "green pea",
    "mangetout",
    "snap pea",
@@ -11959,9 +11895,7 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-peppers",
   "has_page": true,
   "search_names": [
-   "bell pepper",
    "bell pepper raw",
-   "bell pepper seeds",
    "bell pepper seed",
    "capsicum seeds",
    "pepper seeds"
@@ -12110,7 +12044,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-potatoes",
   "has_page": true,
   "search_names": [
-   "potato",
    "french fry",
    "fried potato"
   ]
@@ -12293,9 +12226,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-raspberries",
   "has_page": true,
-  "search_names": [
-   "raspberry"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -12514,9 +12445,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-strawberries",
   "has_page": true,
-  "search_names": [
-   "strawberry"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -12680,7 +12609,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-sweetcorn",
   "has_page": true,
   "search_names": [
-   "corn",
    "corn leaf",
    "corn on cob",
    "corn on cob leaf",
@@ -12822,7 +12750,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-tomatoes",
   "has_page": true,
   "search_names": [
-   "tomato",
    "tomato skin",
    "vine tomato",
    "yellow tomato"
@@ -12963,9 +12890,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-guinea-pigs-eat-walnuts",
   "has_page": true,
-  "search_names": [
-   "walnut"
-  ]
+  "search_names": []
  },
  {
   "animal": "guinea pigs",
@@ -13023,7 +12948,6 @@
   "has_page": true,
   "search_names": [
    "yellow watermelon",
-   "watermelon skin",
    "watermelon green part",
    "watermelon peel"
   ]
@@ -13647,8 +13571,8 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-apples",
   "has_page": true,
   "search_names": [
-   "apple",
    "apple slice",
+   "apple",
    "granny smith apple",
    "green apple"
   ]
@@ -13955,10 +13879,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-bananas",
   "has_page": true,
-  "search_names": [
-   "banana",
-   "fresh banana"
-  ]
+  "search_names": []
  },
  {
   "animal": "hamsters",
@@ -14171,7 +14092,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-blueberries",
   "has_page": true,
   "search_names": [
-   "blueberry",
    "blueberry raw"
   ]
  },
@@ -14465,8 +14385,7 @@
   "has_page": true,
   "search_names": [
    "broccoli raw",
-   "broccoli raw or cooked",
-   "cooked broccoli"
+   "broccoli raw or cooked"
   ]
  },
  {
@@ -14590,7 +14509,6 @@
   "search_names": [
    "cabbage leaf",
    "cabbage raw",
-   "raw cabbage",
    "red cabbage"
   ]
  },
@@ -14847,7 +14765,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-carrots",
   "has_page": true,
   "search_names": [
-   "carrot",
    "carrot raw",
    "raw carrot"
   ]
@@ -14961,8 +14878,7 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cauliflower",
   "has_page": true,
   "search_names": [
-   "cauliflower raw",
-   "raw cauliflower"
+   "cauliflower raw"
   ]
  },
  {
@@ -15117,7 +15033,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cheese",
   "has_page": true,
   "search_names": [
-   "cheddar cheese",
    "colby jack cheese",
    "string cheese",
    "mozzarella cheese",
@@ -15316,7 +15231,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-cherries",
   "has_page": true,
   "search_names": [
-   "cherry",
    "cherry raw"
   ]
  },
@@ -15394,9 +15308,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-chickpeas",
   "has_page": true,
-  "search_names": [
-   "chickpea"
-  ]
+  "search_names": []
  },
  {
   "animal": "hamsters",
@@ -15734,9 +15646,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-crackers",
   "has_page": true,
-  "search_names": [
-   "cracker"
-  ]
+  "search_names": []
  },
  {
   "animal": "hamsters",
@@ -15793,7 +15703,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-crickets",
   "has_page": true,
   "search_names": [
-   "cricket",
    "live cricket"
   ]
  },
@@ -15958,7 +15867,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-dates",
   "has_page": true,
   "search_names": [
-   "date",
    "dried date"
   ]
  },
@@ -16209,7 +16117,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-eggs",
   "has_page": true,
   "search_names": [
-   "egg",
    "a boiled egg",
    "boiled egg",
    "boiled egg white",
@@ -16220,6 +16127,7 @@
    "cooked egg yolk",
    "egg white",
    "egg yolk",
+   "egg",
    "hard boiled egg",
    "hard boiled egg yolk",
    "quail egg",
@@ -16770,7 +16678,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-hazelnuts",
   "has_page": true,
   "search_names": [
-   "hazelnut in shell",
    "hazelnut",
    "raw hazelnut",
    "roasted hazelnut"
@@ -17468,7 +17375,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-oranges",
   "has_page": true,
   "search_names": [
-   "mandarin orange",
    "mandarin",
    "lemon",
    "orange",
@@ -17789,8 +17695,6 @@
   "has_page": true,
   "search_names": [
    "bell pepper",
-   "pepper",
-   "sweet peppers",
    "green bell pepper",
    "green pepper",
    "orange bell pepper",
@@ -17949,9 +17853,8 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-potatoes",
   "has_page": true,
   "search_names": [
-   "mashed potato",
-   "potato",
-   "fried potato"
+   "fried potato",
+   "potato"
   ]
  },
  {
@@ -18526,8 +18429,8 @@
   "full_answer_url": "https://bruxlings.com/pages/can-hamsters-eat-tomatoes",
   "has_page": true,
   "search_names": [
-   "tomato",
    "cherry tomato",
+   "tomato",
    "tomato puree",
    "tomato sauce",
    "tomato seed",
@@ -18934,7 +18837,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-apples",
   "has_page": true,
   "search_names": [
-   "apple",
    "apple and banana",
    "banana and apple"
   ]
@@ -19156,9 +19058,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-bananas",
   "has_page": true,
-  "search_names": [
-   "banana"
-  ]
+  "search_names": []
  },
  {
   "animal": "mice",
@@ -19352,7 +19252,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-blueberries",
   "has_page": true,
   "search_names": [
-   "blueberry",
    "blueberry raw"
   ]
  },
@@ -19563,7 +19462,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-carrots",
   "has_page": true,
   "search_names": [
-   "carrot",
    "raw carrot"
   ]
  },
@@ -20036,9 +19934,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-crackers",
   "has_page": true,
-  "search_names": [
-   "cracker"
-  ]
+  "search_names": []
  },
  {
   "animal": "mice",
@@ -20201,7 +20097,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-eggs",
   "has_page": true,
   "search_names": [
-   "egg",
    "chicken egg",
    "chicken eggs",
    "egg white",
@@ -20465,7 +20360,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-grapes",
   "has_page": true,
   "search_names": [
-   "grape",
    "green grape",
    "green grapes"
   ]
@@ -20746,9 +20640,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-lemons",
   "has_page": true,
-  "search_names": [
-   "lemon"
-  ]
+  "search_names": []
  },
  {
   "animal": "mice",
@@ -20975,7 +20867,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-oranges",
   "has_page": true,
   "search_names": [
-   "orange",
    "banana and orange"
   ]
  },
@@ -21223,9 +21114,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-raspberries",
   "has_page": true,
-  "search_names": [
-   "raspberry"
-  ]
+  "search_names": []
  },
  {
   "animal": "mice",
@@ -21418,9 +21307,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-strawberries",
   "has_page": true,
-  "search_names": [
-   "strawberry"
-  ]
+  "search_names": []
  },
  {
   "animal": "mice",
@@ -21575,7 +21462,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-mice-eat-tomatoes",
   "has_page": true,
   "search_names": [
-   "tomato",
    "cherry tomato",
    "grape tomato"
   ]
@@ -21978,7 +21864,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-apples",
   "has_page": true,
   "search_names": [
-   "apple",
    "apple and banana",
    "apple and grape",
    "apple and orange",
@@ -22034,8 +21919,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-artichoke",
   "has_page": true,
   "search_names": [
-   "jerusalem artichoke",
-   "jerusalem artichoke leaves",
    "jerusalem artichoke leaf"
   ]
  },
@@ -22066,9 +21949,7 @@
    "arugula lettuce",
    "arugula microgreen",
    "arugula salad",
-   "arugula sprout",
-   "rocket",
-   "wild rocket"
+   "arugula sprout"
   ]
  },
  {
@@ -22220,7 +22101,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-bananas",
   "has_page": true,
   "search_names": [
-   "banana",
    "banana and strawberry",
    "banana in winter"
   ]
@@ -22440,9 +22320,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-biscuits",
   "has_page": true,
-  "search_names": [
-   "biscuit"
-  ]
+  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -22527,7 +22405,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-blueberries",
   "has_page": true,
   "search_names": [
-   "blueberry",
    "blueberry and apple",
    "blueberry and blackberry",
    "blueberry and grape",
@@ -22942,7 +22819,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-carrot-tops",
   "has_page": true,
   "search_names": [
-   "carrot top",
    "carrot leaf"
   ]
  },
@@ -22991,7 +22867,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-carrots",
   "has_page": true,
   "search_names": [
-   "carrot",
    "carrot and apple",
    "carrot and broccoli",
    "carrot and celery",
@@ -23595,9 +23470,7 @@
    "courgette skin",
    "zucchini",
    "zucchini squash",
-   "courgette leaves",
    "zucchini leaf",
-   "courgette plant",
    "zucchini plant"
   ]
  },
@@ -23672,9 +23545,7 @@
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
   "has_page": false,
   "search_names": [
-   "bugs",
-   "insects",
-   "grasshopper"
+   "bugs"
   ]
  },
  {
@@ -23843,7 +23714,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-dandelions",
   "has_page": true,
   "search_names": [
-   "dandelion",
    "dandelion flower",
    "dandelion flower and leaf",
    "dandelion from garden",
@@ -24073,7 +23943,29 @@
    "dried cranberry in winter",
    "dried dragon fruit",
    "dried fruit and nut",
+   "dried strawberry",
    "freeze dried fruit"
+  ]
+ },
+ {
+  "animal": "rabbits",
+  "food": "dried mango",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "No. Skip dried mango; a 2 cm cube of fresh peeled mango is the treat.",
+  "why": "Drying concentrates the sugar; the RSPCA lists sweetened foods to avoid.",
+  "sources": [
+   {
+    "name": "RSPCA: rabbit diet",
+    "url": "https://www.rspca.org.uk/adviceandwelfare/pets/rabbits/diet"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "dehydrated mango",
+   "dried mango slice"
   ]
  },
  {
@@ -24206,11 +24098,9 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-eggs",
   "has_page": true,
   "search_names": [
-   "boiled egg",
    "cooked egg",
    "hard boiled egg",
    "scrambled egg",
-   "egg",
    "egg in wild",
    "egg raw or cooked",
    "quail egg"
@@ -24778,22 +24668,18 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-grapes",
   "has_page": true,
   "search_names": [
-   "grape",
    "grape raw",
    "green grape",
    "green grape raw",
    "green seedless grape",
-   "grape leaves",
    "grape leaf",
    "grape stem",
    "grape stems",
    "grape vine",
    "grape vine leaves",
    "vine leaves",
-   "grape skin",
    "grape peel",
-   "grape skins",
-   "raisin dried"
+   "grape skins"
   ]
  },
  {
@@ -24825,14 +24711,12 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-grass",
   "has_page": true,
   "search_names": [
-   "garden grass",
    "grass from outside",
    "grass from yard",
    "grass outside",
    "yard grass",
    "fresh grass",
    "unlimited grass",
-   "grass clippings",
    "grass clipping"
   ]
  },
@@ -25140,6 +25024,26 @@
  },
  {
   "animal": "rabbits",
+  "food": "insects",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "No. Rabbits are plant-eaters: no insects, meat or eggs. Give hay and greens.",
+  "why": "The RSPCA lists animal foods to avoid, and rabbits are strict plant-eaters.",
+  "sources": [
+   {
+    "name": "RSPCA: what do rabbits eat (diet advice)",
+    "url": "https://rspca.org.uk/adviceandwelfare/pets/rabbits/diet/planner"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "grasshopper"
+  ]
+ },
+ {
+  "animal": "rabbits",
   "food": "iris",
   "answer": "no",
   "how_often": "never",
@@ -25370,7 +25274,6 @@
   "search_names": [
    "kiwi berry",
    "yellow kiwi",
-   "kiwi skin",
    "kiwi fruit skin",
    "kiwi peel",
    "kiwi with skin"
@@ -25559,9 +25462,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-leeks",
   "has_page": true,
-  "search_names": [
-   "leek"
-  ]
+  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -25650,7 +25551,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-lettuce",
   "has_page": true,
   "search_names": [
-   "iceberg lettuce",
    "iceberg",
    "green leafy lettuce",
    "green multi leaf lettuce",
@@ -25744,13 +25644,9 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-mango",
   "has_page": true,
   "search_names": [
-   "dried mango",
    "freeze dried mango",
    "unsweetened dried mango",
-   "mango skin",
-   "mango peel",
-   "dehydrated mango",
-   "dried mango slice"
+   "mango peel"
   ]
  },
  {
@@ -25873,7 +25769,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-milk",
   "has_page": true,
   "search_names": [
-   "dairy",
    "ice cream",
    "yogurt"
   ]
@@ -25960,7 +25855,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-mushrooms",
   "has_page": true,
   "search_names": [
-   "mushroom",
    "mushroom in garden",
    "mushroom raw"
   ]
@@ -26206,7 +26100,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-onions",
   "has_page": true,
   "search_names": [
-   "onion",
    "green onion",
    "green onion leaf",
    "green onion stem",
@@ -26268,7 +26161,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-oranges",
   "has_page": true,
   "search_names": [
-   "orange",
    "mandarin",
    "orange slice",
    "tangerine"
@@ -26413,9 +26305,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-parsnips",
   "has_page": true,
-  "search_names": [
-   "parsnip"
-  ]
+  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -26521,7 +26411,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peaches",
   "has_page": true,
   "search_names": [
-   "peach",
    "nectarine"
   ]
  },
@@ -26558,7 +26447,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peanut-butter",
   "has_page": true,
   "search_names": [
-   "nuts",
    "nut",
    "nut and seed",
    "peanut",
@@ -26602,9 +26490,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pears",
   "has_page": true,
-  "search_names": [
-   "pear"
-  ]
+  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -26639,7 +26525,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peas",
   "has_page": true,
   "search_names": [
-   "sugar snap pea pod",
    "pea pod"
   ]
  },
@@ -26675,9 +26560,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pellets",
   "has_page": true,
-  "search_names": [
-   "rabbit pellets"
-  ]
+  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -26712,17 +26595,13 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-peppers",
   "has_page": true,
   "search_names": [
-   "bell pepper",
    "bell pepper and tomato",
    "bell pepper raw",
    "bell peppers",
    "sweet pepper",
-   "jalapenos",
    "jalapeno",
-   "orange pepper",
    "orange bell pepper",
    "orange sweet pepper",
-   "pepper plant leaves",
    "green pepper leaf",
    "green pepper plant",
    "green and red pepper",
@@ -26813,9 +26692,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-plums",
   "has_page": true,
-  "search_names": [
-   "plum flesh"
-  ]
+  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -26888,7 +26765,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-potatoes",
   "has_page": true,
   "search_names": [
-   "potato",
    "raw potato"
   ]
  },
@@ -26921,7 +26797,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-pumpkin",
   "has_page": true,
   "search_names": [
-   "pumpkin flesh",
    "fresh pumpkin",
    "raw pumpkin"
   ]
@@ -27068,9 +26943,7 @@
   ],
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-raspberries",
   "has_page": true,
-  "search_names": [
-   "raspberry"
-  ]
+  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -27102,6 +26975,30 @@
   "has_page": true,
   "search_names": [
    "uncooked rice"
+  ]
+ },
+ {
+  "animal": "rabbits",
+  "food": "rocket",
+  "answer": "yes",
+  "how_often": "daily",
+  "short_answer": "",
+  "how": "A small handful, washed, in the day's mix of greens.",
+  "why": "Burgess and Woodgreen both list rocket among their safe leafy vegetables.",
+  "sources": [
+   {
+    "name": "Burgess: What food can rabbits eat?",
+    "url": "https://www.burgesspetcare.com/pet-care/rabbits/what-food-can-rabbits-eat/"
+   },
+   {
+    "name": "Woodgreen: what to feed your rabbits",
+    "url": "https://woodgreen.org.uk/pet-advice/rabbit/what-to-feed-your-rabbits/"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "wild rocket"
   ]
  },
  {
@@ -27211,7 +27108,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-seeds",
   "has_page": true,
   "search_names": [
-   "fruit seeds",
    "green pepper seed",
    "guava seed",
    "honeydew melon seed",
@@ -27278,7 +27174,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-spinach",
   "has_page": true,
   "search_names": [
-   "baby spinach",
    "baby spinach leaves",
    "spinach baby leaf",
    "fresh spinach",
@@ -27391,12 +27286,9 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-strawberries",
   "has_page": true,
   "search_names": [
-   "dried strawberry",
    "freeze dried strawberry",
-   "strawberry",
    "frozen strawberry",
    "strawberry raw",
-   "strawberry leaf leaves",
    "strawberry top"
   ]
  },
@@ -27664,13 +27556,9 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-tomatoes",
   "has_page": true,
   "search_names": [
-   "cherry tomato",
-   "tomato flesh",
    "tomato in winter",
    "yellow tomato",
-   "tomato plant leaves",
-   "tomato leaf",
-   "unripe tomato"
+   "tomato leaf"
   ]
  },
  {
@@ -27900,7 +27788,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-watermelon",
   "has_page": true,
   "search_names": [
-   "watermelon flesh",
    "yellow watermelon"
   ]
  },
@@ -27955,7 +27842,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-weetabix",
   "has_page": true,
   "search_names": [
-   "breakfast cereal",
    "fruit and fibre cereal",
    "fruit loop",
    "honey nut cheerios"
@@ -28311,7 +28197,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-apples",
   "has_page": true,
   "search_names": [
-   "apple",
    "apple in garden",
    "apple off tree",
    "apple peel",
@@ -28417,7 +28302,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-apricots",
   "has_page": true,
   "search_names": [
-   "apricot",
    "can pet rats eat apricots",
    "can rats eat apricots",
    "do rats eat apricots"
@@ -28632,7 +28516,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-bananas",
   "has_page": true,
   "search_names": [
-   "banana",
    "can pet rats eat bananas",
    "can rats eat banana",
    "can rats eat bananas",
@@ -28641,7 +28524,6 @@
    "do rats eat bananas",
    "is it safe for rats to eat bananas",
    "will rats eat bananas",
-   "banana peel",
    "banana peels",
    "banana skin",
    "banana skins"
@@ -28776,12 +28658,8 @@
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
   "has_page": false,
   "search_names": [
-   "dried bean",
    "uncooked bean",
-   "uncooked kidney bean",
-   "dry beans",
-   "raw dried beans",
-   "uncooked dried beans"
+   "uncooked kidney bean"
   ]
  },
  {
@@ -28963,7 +28841,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-blueberries",
   "has_page": true,
   "search_names": [
-   "blueberry",
    "berry",
    "blueberry raw",
    "can pet rats eat blueberries",
@@ -29273,7 +29150,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-carrots",
   "has_page": true,
   "search_names": [
-   "carrot",
    "baby carrot",
    "can pet rats eat carrots",
    "can pet rats have carrots",
@@ -29540,7 +29416,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-cherries",
   "has_page": true,
   "search_names": [
-   "cherry",
    "can rats eat cherries",
    "can rats have cherries",
    "can rats have cherry"
@@ -30239,6 +30114,28 @@
  },
  {
   "animal": "rats",
+  "food": "dried beans",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "No. Dried beans must be cooked, and raw dried beans are never given.",
+  "why": "Rats4Pets lists raw dried beans as to avoid; only cooked beans are offered.",
+  "sources": [
+   {
+    "name": "Rats4Pets: feeding your pet rat",
+    "url": "https://www.rats4pets.com/feeding-your-pet-rat/"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "dry beans",
+   "raw dried beans",
+   "uncooked dried beans"
+  ]
+ },
+ {
+  "animal": "rats",
   "food": "dried corn",
   "answer": "no",
   "how_often": "never",
@@ -30388,7 +30285,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-eggs",
   "has_page": true,
   "search_names": [
-   "egg",
    "a boiled egg",
    "boiled egg",
    "boiled egg yolk",
@@ -33592,7 +33488,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-seeds",
   "has_page": true,
   "search_names": [
-   "pumpkin seeds",
    "pumpkin seed",
    "can rats eat chia seeds",
    "chia seed"
@@ -33987,7 +33882,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rats-eat-tomatoes",
   "has_page": true,
   "search_names": [
-   "cherry tomato",
    "cherry tomatoes",
    "plum tomato",
    "tomato"

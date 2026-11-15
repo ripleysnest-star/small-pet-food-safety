@@ -1,8 +1,8 @@
-# Can my small pet eat this? An open table of 1,270 food answers
+# Can my small pet eat this? An open table of 1,274 food answers
 
 A plain table of which foods are fine, fine now and then, or not for nine small pets: rats, rabbits, guinea pigs, hamsters, mice, gerbils, chinchillas, degus and ferrets.
 
-Each row gives the animal, the food, a short answer (`yes`, `sometimes` or `no`), how often (`daily`, `weekly`, `occasional` or `never`), the sources it comes from with their links, and a link to read more. 346 foods have a full page on bruxlings.com with the reasons and how to serve them: those rows have a one-line `short_answer` and link to their page. The other 924 rows give `how` (how much, or what to give instead) and `why`, and link to the food checker.
+Each row gives the animal, the food, a short answer (`yes`, `sometimes` or `no`), how often (`daily`, `weekly`, `occasional` or `never`), the sources it comes from with their links, and a link to read more. 346 foods have a full page on bruxlings.com with the reasons and how to serve them: those rows have a one-line `short_answer` and link to their page. The other 928 rows give `how` (how much, or what to give instead) and `why`, and link to the food checker.
 
 | Animal | Foods answered | With a full page |
 |---|---|---|
@@ -13,10 +13,10 @@ Each row gives the animal, the food, a short answer (`yes`, `sometimes` or `no`)
 | Guinea pigs | 187 | 60 |
 | Hamsters | 221 | 56 |
 | Mice | 116 | 23 |
-| Rabbits | 229 | 75 |
-| Rats | 220 | 67 |
+| Rabbits | 232 | 75 |
+| Rats | 221 | 67 |
 
-Answers: 132 yes, 573 sometimes, 565 no. 4,319 search names in all (the food's name plus other names people use for it), from 415 source pages.
+Answers: 133 yes, 573 sometimes, 568 no. 4,167 search names in all (the food's name plus other names people use for it), from 415 source pages.
 
 ## Files
 
