@@ -14310,6 +14310,27 @@
  },
  {
   "animal": "hamsters",
+  "food": "green tomatoes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "Do not offer it.",
+  "why": "Woodgreen leaves tomato out of a hamster’s diet; green, unripe fruit is not an exception.",
+  "sources": [
+   {
+    "name": "Woodgreen: feeding hamsters",
+    "url": "https://woodgreen.org.uk/pet-advice/hamster/what-to-feed-your-hamster/"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "unripe tomato",
+   "unripe tomatoes"
+  ]
+ },
+ {
+  "animal": "hamsters",
   "food": "guava",
   "answer": "sometimes",
   "how_often": "weekly",
@@ -15988,6 +16009,27 @@
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
   "has_page": false,
   "search_names": []
+ },
+ {
+  "animal": "hamsters",
+  "food": "tomato stems",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "Do not offer it.",
+  "why": "Woodgreen leaves tomato out of a hamster’s diet. The stems are not a suitable treat either.",
+  "sources": [
+   {
+    "name": "Woodgreen: feeding hamsters",
+    "url": "https://woodgreen.org.uk/pet-advice/hamster/what-to-feed-your-hamster/"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "tomato stalk",
+   "tomato stalks"
+  ]
  },
  {
   "animal": "hamsters",
@@ -27207,6 +27249,27 @@
  },
  {
   "animal": "rats",
+  "food": "green tomatoes",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "Do not offer it.",
+  "why": "The mousery’s rat-and-mouse list allows ripe tomato only. Leave green, unripe fruit out.",
+  "sources": [
+   {
+    "name": "Kailee & Kisses Mousery: safe and unsafe foods for rats and mice",
+    "url": "https://www.kaileeandkisses.com/safe--unsafe-foods.html"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "unripe tomato",
+   "unripe tomatoes"
+  ]
+ },
+ {
+  "animal": "rats",
   "food": "guinea pig food",
   "answer": "no",
   "how_often": "never",
@@ -29270,6 +29333,27 @@
  },
  {
   "animal": "rats",
+  "food": "raw potato skins",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "Do not offer it.",
+  "why": "The mousery’s rat-and-mouse list excludes raw potatoes and potato peels. Choose a checked vegetable instead.",
+  "sources": [
+   {
+    "name": "Kailee & Kisses Mousery: safe and unsafe foods for rats and mice",
+    "url": "https://www.kaileeandkisses.com/safe--unsafe-foods.html"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "raw potato peel",
+   "raw potato peels"
+  ]
+ },
+ {
+  "animal": "rats",
   "food": "rhubarb",
   "answer": "no",
   "how_often": "never",
@@ -29855,6 +29939,29 @@
   "has_page": false,
   "search_names": [
    "tomato leaf"
+  ]
+ },
+ {
+  "animal": "rats",
+  "food": "tomato stems",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "Do not offer it.",
+  "why": "Isamu Rats says not to feed the tomato plant. Its ripe-fruit advice does not include the stems.",
+  "sources": [
+   {
+    "name": "Isamu Rats: vegetables and fruits",
+    "url": "https://web.archive.org/web/2026/https://www.isamurats.co.uk/vegetables-and-fruits.html"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "tomato stalk",
+   "tomato stalks",
+   "tomato vine",
+   "tomato vines"
   ]
  },
  {
