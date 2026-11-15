@@ -2028,6 +2028,27 @@
  },
  {
   "animal": "degus",
+  "food": "apple seeds",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "Do not offer it.",
+  "why": "Supreme Petfoods lists apple seeds in the foods never to feed a degu.",
+  "sources": [
+   {
+    "name": "Supreme Petfoods: degu food guide",
+    "url": "https://supremepetfoods.com/veggies/"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "apple pip",
+   "apple pips"
+  ]
+ },
+ {
+  "animal": "degus",
   "food": "apples",
   "answer": "sometimes",
   "how_often": "occasional",
@@ -3022,6 +3043,28 @@
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
   "has_page": false,
   "search_names": []
+ },
+ {
+  "animal": "degus",
+  "food": "potato leaves",
+  "answer": "no",
+  "how_often": "never",
+  "short_answer": "",
+  "how": "Do not offer it.",
+  "why": "Fellow Creatures excludes potato skin and green parts from degu food because they contain solanine. Do not offer the leaves.",
+  "sources": [
+   {
+    "name": "Fellow Creatures: degu care",
+    "url": "https://www.fellowcreatures.org/animals/degu"
+   }
+  ],
+  "full_answer_url": "https://bruxlings.com/pages/food-checker",
+  "has_page": false,
+  "search_names": [
+   "potato foliage",
+   "potato leaf",
+   "potato tops"
+  ]
  },
  {
   "animal": "degus",
