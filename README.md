@@ -1,22 +1,22 @@
-# Can my small pet eat this? An open table of 1,274 food answers
+# Can my small pet eat this? An open table of 1,271 food answers
 
 A plain table of which foods are fine, fine now and then, or not for nine small pets: rats, rabbits, guinea pigs, hamsters, mice, gerbils, chinchillas, degus and ferrets.
 
-Each row gives the animal, the food, a short answer (`yes`, `sometimes` or `no`), how often (`daily`, `weekly`, `occasional` or `never`), the sources it comes from with their links, and a link to read more. 346 foods have a full page on bruxlings.com with the reasons and how to serve them: those rows have a one-line `short_answer` and link to their page. The other 928 rows give `how` (how much, or what to give instead) and `why`, and link to the food checker.
+Each row gives the animal, the food, a short answer (`yes`, `sometimes` or `no`), how often (`daily`, `weekly`, `occasional` or `never`), the sources it comes from with their links, and a link to read more. 345 foods have a full page on bruxlings.com with the reasons and how to serve them: those rows have a one-line `short_answer` and link to their page. The other 926 rows give `how` (how much, or what to give instead) and `why`, and link to the food checker.
 
 | Animal | Foods answered | With a full page |
 |---|---|---|
-| Chinchillas | 89 | 15 |
-| Degus | 60 | 13 |
-| Ferrets | 62 | 16 |
-| Gerbils | 86 | 21 |
-| Guinea pigs | 187 | 60 |
-| Hamsters | 221 | 56 |
-| Mice | 116 | 23 |
-| Rabbits | 232 | 75 |
-| Rats | 221 | 67 |
+| Chinchillas | 86 | 15 |
+| Degus | 62 | 13 |
+| Ferrets | 58 | 15 |
+| Gerbils | 78 | 21 |
+| Guinea pigs | 190 | 60 |
+| Hamsters | 217 | 56 |
+| Mice | 119 | 23 |
+| Rabbits | 238 | 75 |
+| Rats | 223 | 67 |
 
-Answers: 133 yes, 573 sometimes, 568 no. 4,167 search names in all (the food's name plus other names people use for it), from 415 source pages.
+Answers: 125 yes, 513 sometimes, 633 no. 4,315 search names in all (the food's name plus other names people use for it), from 349 source pages.
 
 ## Files
 
@@ -32,7 +32,7 @@ Columns: `animal`, `food`, `answer`, `how_often`, `short_answer`, `how`, `why`, 
 
 ## Use it
 
-Free to use, share and adapt, including in articles, apps, charts and printed sheets, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit it with a link:
+Free to use, share and adapt, including in articles, apps, charts and paper sheets, under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit it with a link:
 
 > Food answers from [Bruxlings](https://bruxlings.com/pages/food-checker), small-pet care guides.
 
