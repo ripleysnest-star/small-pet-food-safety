@@ -2618,11 +2618,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "Fellow Creatures identifies the skin and green parts of potato as unsuitable for degus.",
+  "why": "Potato is on MN Pocket Pet Rescue’s toxic-food list for degus. Green skin is not an exception.",
   "sources": [
    {
-    "name": "Fellow Creatures: degu care",
-    "url": "https://www.fellowcreatures.org/animals/degu"
+    "name": "MN Pocket Pet Rescue: degus",
+    "url": "https://www.mnpocketpetrescue.org/degus"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -2631,27 +2631,6 @@
    "green potato",
    "green potato peel",
    "green potatoes"
-  ]
- },
- {
-  "animal": "degus",
-  "food": "green tomatoes",
-  "answer": "no",
-  "how_often": "never",
-  "short_answer": "",
-  "how": "Do not offer it.",
-  "why": "Green, unripe tomato is excluded by this animal’s feeding guide; ripe fruit is a different answer.",
-  "sources": [
-   {
-    "name": "Fellow Creatures: degu care",
-    "url": "https://www.fellowcreatures.org/animals/degu"
-   }
-  ],
-  "full_answer_url": "https://bruxlings.com/pages/food-checker",
-  "has_page": false,
-  "search_names": [
-   "unripe tomato",
-   "unripe tomatoes"
   ]
  },
  {
@@ -3046,28 +3025,6 @@
  },
  {
   "animal": "degus",
-  "food": "potato leaves",
-  "answer": "no",
-  "how_often": "never",
-  "short_answer": "",
-  "how": "Do not offer it.",
-  "why": "Fellow Creatures excludes potato skin and green parts from degu food because they contain solanine. Do not offer the leaves.",
-  "sources": [
-   {
-    "name": "Fellow Creatures: degu care",
-    "url": "https://www.fellowcreatures.org/animals/degu"
-   }
-  ],
-  "full_answer_url": "https://bruxlings.com/pages/food-checker",
-  "has_page": false,
-  "search_names": [
-   "potato foliage",
-   "potato leaf",
-   "potato tops"
-  ]
- },
- {
-  "animal": "degus",
   "food": "potatoes",
   "answer": "no",
   "how_often": "never",
@@ -3228,11 +3185,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "Fellow Creatures excludes potato because of compounds in the skin and the starch load.",
+  "why": "MN Pocket Pet Rescue lists potato as toxic food for degus. Potato skin is not a suitable treat.",
   "sources": [
    {
-    "name": "Fellow Creatures: degu care",
-    "url": "https://www.fellowcreatures.org/animals/degu"
+    "name": "MN Pocket Pet Rescue: degus",
+    "url": "https://www.mnpocketpetrescue.org/degus"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -3249,11 +3206,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "Rhubarb leaves contain high levels of oxalate and are excluded by degu feeding guidance.",
+  "why": "MN Pocket Pet Rescue lists rhubarb as toxic food for degus. Do not offer the leaves.",
   "sources": [
    {
-    "name": "Fellow Creatures: degu care",
-    "url": "https://www.fellowcreatures.org/animals/degu"
+    "name": "MN Pocket Pet Rescue: degus",
+    "url": "https://www.mnpocketpetrescue.org/degus"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -3381,11 +3338,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "The leaves are not the ripe fruit. Fellow Creatures says tomato leaves must not be fed.",
+  "why": "MN Pocket Pet Rescue lists tomato leaves as toxic food for degus. Its list does not make ripe tomato fruit the same food as the leaves.",
   "sources": [
    {
-    "name": "Fellow Creatures: degu care",
-    "url": "https://www.fellowcreatures.org/animals/degu"
+    "name": "MN Pocket Pet Rescue: degus",
+    "url": "https://www.mnpocketpetrescue.org/degus"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -3393,29 +3350,6 @@
   "search_names": [
    "tomato foliage",
    "tomato leaf"
-  ]
- },
- {
-  "animal": "degus",
-  "food": "tomato stems",
-  "answer": "no",
-  "how_often": "never",
-  "short_answer": "",
-  "how": "Do not offer it.",
-  "why": "The tomato plant is not a treat: its stems and leaves must be kept out of the food bowl.",
-  "sources": [
-   {
-    "name": "Fellow Creatures: degu care",
-    "url": "https://www.fellowcreatures.org/animals/degu"
-   }
-  ],
-  "full_answer_url": "https://bruxlings.com/pages/food-checker",
-  "has_page": false,
-  "search_names": [
-   "tomato stalk",
-   "tomato stalks",
-   "tomato vine",
-   "tomato vines"
   ]
  },
  {
@@ -19196,15 +19130,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Never. Remove every pip before giving any apple.",
-  "why": "Apple pips are poisonous to rabbits (Burgess, RSPCA).",
+  "why": "Apple seeds are on The Bunny Lady’s foods-to-avoid list. Remove them before giving any apple flesh.",
   "sources": [
    {
-    "name": "Burgess: what food can rabbits eat",
-    "url": "https://www.burgesspetcare.com/pet-care/rabbits/what-food-can-rabbits-eat/"
-   },
-   {
-    "name": "RSPCA: rabbit diet",
-    "url": "https://www.rspca.org.uk/adviceandwelfare/pets/rabbits/diet"
+    "name": "The Bunny Lady: rabbit food list",
+    "url": "https://bunnylady.com/rabbit-food-list/"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -20202,28 +20132,6 @@
   "full_answer_url": "https://bruxlings.com/pages/can-rabbits-eat-cherries",
   "has_page": true,
   "search_names": []
- },
- {
-  "animal": "rabbits",
-  "food": "cherry stones",
-  "answer": "no",
-  "how_often": "never",
-  "short_answer": "",
-  "how": "Do not offer it.",
-  "why": "Remove these before offering any fruit. Vet Verified says these seeds or stones should not be fed.",
-  "sources": [
-   {
-    "name": "Vet Verified: fruits for rabbits",
-    "url": "https://vetverified.com/articles/what-fruits-can-my-rabbits-eat"
-   }
-  ],
-  "full_answer_url": "https://bruxlings.com/pages/food-checker",
-  "has_page": false,
-  "search_names": [
-   "cherry pit",
-   "cherry pits",
-   "cherry seeds"
-  ]
  },
  {
   "animal": "rabbits",
@@ -21866,27 +21774,6 @@
  },
  {
   "animal": "rabbits",
-  "food": "green tomatoes",
-  "answer": "no",
-  "how_often": "never",
-  "short_answer": "",
-  "how": "Do not offer it.",
-  "why": "Vet Verified says unripe green tomatoes must be left out; its small-treat advice is for ripe flesh only.",
-  "sources": [
-   {
-    "name": "Vet Verified: fruits for rabbits",
-    "url": "https://vetverified.com/articles/what-fruits-can-my-rabbits-eat"
-   }
-  ],
-  "full_answer_url": "https://bruxlings.com/pages/food-checker",
-  "has_page": false,
-  "search_names": [
-   "unripe tomato",
-   "unripe tomatoes"
-  ]
- },
- {
-  "animal": "rabbits",
   "food": "guava",
   "answer": "sometimes",
   "how_often": "occasional",
@@ -23271,26 +23158,9 @@
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
   "has_page": false,
   "search_names": [
-   "peach seed"
+   "peach seed",
+   "peach stone"
   ]
- },
- {
-  "animal": "rabbits",
-  "food": "peach stones",
-  "answer": "no",
-  "how_often": "never",
-  "short_answer": "",
-  "how": "Do not offer it.",
-  "why": "Remove these before offering any fruit. Vet Verified says these seeds or stones should not be fed.",
-  "sources": [
-   {
-    "name": "Vet Verified: fruits for rabbits",
-    "url": "https://vetverified.com/articles/what-fruits-can-my-rabbits-eat"
-   }
-  ],
-  "full_answer_url": "https://bruxlings.com/pages/food-checker",
-  "has_page": false,
-  "search_names": []
  },
  {
   "animal": "rabbits",
@@ -23508,11 +23378,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "Remove these before offering any fruit. Vet Verified says these seeds or stones should not be fed.",
+  "why": "The British Rabbit Council lists plum leaves and stones among unsafe garden plants and parts.",
   "sources": [
    {
-    "name": "Vet Verified: fruits for rabbits",
-    "url": "https://vetverified.com/articles/what-fruits-can-my-rabbits-eat"
+    "name": "British Rabbit Council: safe and unsafe garden plants",
+    "url": "https://thebritishrabbitcouncil.org/in-the-garden.php"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -24839,11 +24709,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "Remove these before offering any fruit. Coastline Pets says these seeds or stones should not be fed.",
+  "why": "The Rat Fan Club lists these seeds or pits among poisonous plants and plant parts. Remove them before offering any fruit.",
   "sources": [
    {
-    "name": "Coastline Pets: rat-safe foods",
-    "url": "https://coastlinepets.com/rat-safe-foods/"
+    "name": "Rat Fan Club: poisonous plants",
+    "url": "https://ratfanclub.org/plants.html"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -25976,11 +25846,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "Remove these before offering any fruit. Coastline Pets says these seeds or stones should not be fed.",
+  "why": "The Rat Fan Club lists these seeds or pits among poisonous plants and plant parts. Remove them before offering any fruit.",
   "sources": [
    {
-    "name": "Coastline Pets: rat-safe foods",
-    "url": "https://coastlinepets.com/rat-safe-foods/"
+    "name": "Rat Fan Club: poisonous plants",
+    "url": "https://ratfanclub.org/plants.html"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -28532,11 +28402,11 @@
   "how_often": "never",
   "short_answer": "",
   "how": "Do not offer it.",
-  "why": "Remove these before offering any fruit. Coastline Pets says these seeds or stones should not be fed.",
+  "why": "The Rat Fan Club lists these seeds or pits among poisonous plants and plant parts. Remove them before offering any fruit.",
   "sources": [
    {
-    "name": "Coastline Pets: rat-safe foods",
-    "url": "https://coastlinepets.com/rat-safe-foods/"
+    "name": "Rat Fan Club: poisonous plants",
+    "url": "https://ratfanclub.org/plants.html"
    }
   ],
   "full_answer_url": "https://bruxlings.com/pages/food-checker",
@@ -28857,28 +28727,6 @@
    "can rats eat corn flakes",
    "cheerios",
    "corn flake"
-  ]
- },
- {
-  "animal": "rats",
-  "food": "plum stones",
-  "answer": "no",
-  "how_often": "never",
-  "short_answer": "",
-  "how": "Do not offer it.",
-  "why": "Remove these before offering any fruit. Coastline Pets says these seeds or stones should not be fed.",
-  "sources": [
-   {
-    "name": "Coastline Pets: rat-safe foods",
-    "url": "https://coastlinepets.com/rat-safe-foods/"
-   }
-  ],
-  "full_answer_url": "https://bruxlings.com/pages/food-checker",
-  "has_page": false,
-  "search_names": [
-   "plum pit",
-   "plum pits",
-   "plum seeds"
   ]
  },
  {
