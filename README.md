@@ -28,7 +28,7 @@ Columns: `animal`, `food`, `answer`, `how_often`, `short_answer`, `how`, `why`, 
 ## Ready-made charts and a tool for your site
 
 - **Printable charts**, one A4 page per animal with the everyday foods sorted into yes, sometimes and no, and cage sizes: [rats](https://tools.bruxlings.com/charts/rats/), [rabbits](https://tools.bruxlings.com/charts/rabbits/), [guinea pigs](https://tools.bruxlings.com/charts/guinea-pigs/), [hamsters](https://tools.bruxlings.com/charts/hamsters/), [mice](https://tools.bruxlings.com/charts/mice/), [gerbils](https://tools.bruxlings.com/charts/gerbils/), [chinchillas](https://tools.bruxlings.com/charts/chinchillas/), [degus](https://tools.bruxlings.com/charts/degus/), [ferrets](https://tools.bruxlings.com/charts/ferrets/). Same licence.
-- **A food checker you can put on your own page**, with search as you type and the sources under every answer: [tools.bruxlings.com/food](https://tools.bruxlings.com/food/). The copy-paste code is at [bruxlings.com/pages/food-checker#embed](https://bruxlings.com/pages/food-checker#embed). There is a [cage size checker](https://bruxlings.com/pages/cage-checker#embed) too.
+- **A food checker you can put on your own page**, with search as you type and the sources under every answer: [tools.bruxlings.com/food](https://tools.bruxlings.com/food/). The copy-paste code is at [bruxlings.com/pages/food-checker#embed](https://bruxlings.com/pages/food-checker#embed). There is a [cage size checker](https://bruxlings.com/pages/cage-checker#embed) too, and its 48 cages are an open table: [small-pet-cage-sizes](https://github.com/ripleysnest-star/small-pet-cage-sizes).
 
 ## Use it
 
